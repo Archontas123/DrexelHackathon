@@ -9,69 +9,61 @@ import java.lang.reflect.Type;
 import java.util.List;
 
 public class Question {
-    private String Test;
-    private String Domain;
-    private String Skill;
-    private String Difficulty;
-    private String question_id;
-    private String image_path;
+    private String test;
+    private String domain;
+    private String skill;
+    private String difficulty;
+    private String questionId;
+    private String imagePath;
     private String question;
-    private List<String> answer_choices;
-    private String correct_answer;
-    private List<String> answer_explanations;
+    private List<String> answerChoices;
+    private int correctAnswer;
+    private List<String> answerExplanations;
     private List<String> hints;
 
-    // Constructor that loads a list of questions from a JSON file
-    public static List<Question> loadFromFile(String jsonFilePath) throws IOException {
-        Gson gson = new Gson();
+    // Static method to load a list of questions from a JSON file
+    public static List<Question> loadQuestions(String jsonFilePath) {
         try (FileReader reader = new FileReader(jsonFilePath)) {
+            Gson gson = new Gson();
             Type questionListType = new TypeToken<List<Question>>() {}.getType();
             return gson.fromJson(reader, questionListType);
+        } catch (IOException e) {
+            System.err.println("Failed to load questions: " + e.getMessage());
+            return null;
         }
     }
 
-    // Getters (optional, but useful)
-    public String getTest() {
-        return Test;
-    }
+    // Getters and setters
+    public String getTest() { return test; }
+    public void setTest(String test) { this.test = test; }
 
-    public String getDomain() {
-        return Domain;
-    }
+    public String getDomain() { return domain; }
+    public void setDomain(String domain) { this.domain = domain; }
 
-    public String getSkill() {
-        return Skill;
-    }
+    public String getSkill() { return skill; }
+    public void setSkill(String skill) { this.skill = skill; }
 
-    public String getDifficulty() {
-        return Difficulty;
-    }
+    public String getDifficulty() { return difficulty; }
+    public void setDifficulty(String difficulty) { this.difficulty = difficulty; }
 
-    public String getQuestionId() {
-        return question_id;
-    }
+    public String getQuestionId() { return questionId; }
+    public void setQuestionId(String questionId) { this.questionId = questionId; }
 
-    public String getImagePath() {
-        return image_path;
-    }
+    public String getImagePath() { return imagePath; }
+    public void setImagePath(String imagePath) { this.imagePath = imagePath; }
 
-    public String getQuestion() {
-        return question;
-    }
+    public String getQuestion() { return question; }
+    public void setQuestion(String question) { this.question = question; }
 
-    public List<String> getAnswerChoices() {
-        return answer_choices;
-    }
+    public List<String> getAnswerChoices() { return answerChoices; }
+    public void setAnswerChoices(List<String> answerChoices) { this.answerChoices = answerChoices; }
 
-    public String getCorrectAnswer() {
-        return correct_answer;
-    }
+    public int getCorrectAnswer() { return correctAnswer; }
+    public void setCorrectAnswer(int correctAnswer) { this.correctAnswer = correctAnswer; }
 
-    public List<String> getAnswerExplanations() {
-        return answer_explanations;
-    }
+    public List<String> getAnswerExplanations() { return answerExplanations; }
+    public void setAnswerExplanations(List<String> answerExplanations) { this.answerExplanations = answerExplanations; }
 
-    public List<String> getHints() {
-        return hints;
-    }
+    public List<String> getHints() { return hints; }
+    public void setHints(List<String> hints) { this.hints = hints; }
 }
