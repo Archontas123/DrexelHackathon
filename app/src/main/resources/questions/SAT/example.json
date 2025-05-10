@@ -1,20 +1,20 @@
 [
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Hard",
-    "question_id": "f1bfbed3",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "questionId": "f1bfbed3",
+    "imagePath": null,
     "question": "Marta Coll and colleagues' 2010 Mediterranean Sea biodiversity census reported approximately 17,000 species, nearly double the number reported in Carlo Bianchi and Carla Morri's 2000 census—a difference only partly attributable to the description of new invertebrate species in the interim. Another factor is that the morphological variability of microorganisms is poorly understood compared to that of vertebrates, invertebrates, plants, and algae, creating uncertainty about how to evaluate microorganisms as species. Researchers' decisions on such matters therefore can be highly consequential. Indeed, the two censuses reported similar counts of vertebrate, plant, and algal species, suggesting that _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "Coll and colleagues reported a much higher number of species than Bianchi and Morri did largely due to the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri's census.",
       "some differences observed in microorganisms may have been treated as variations within species by Bianchi and Morri but treated as indicative of distinct species by Coll and colleagues.",
       "Bianchi and Morri may have been less sensitive to the degree of morphological variation displayed within a typical species of microorganism than Coll and colleagues were.",
       "the absence of clarity regarding how to differentiate among species of microorganisms may have resulted in Coll and colleagues underestimating the number of microorganism species."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect because the text explicitly addresses this issue by stating that the description of new invertebrate species in the years between the two studies can explain only part of the difference in the number of species reported by the studies. The focus of the text is on explaining the difference between Coll and colleagues' count and Bianchi and Morri's count that cannot be accounted for by the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri's study.",
       "Choice B is the best answer because it presents the conclusion that most logically completes the text's discussion of the different counts of species in the Mediterranean Sea. The text states that Coll and colleagues reported almost double the number of species that Bianchi and Morri reported in their study ten years earlier. According to the text, this difference can only be partly attributed to new invertebrate species being described in the years between the two studies, which means there must be an additional factor that made Coll and colleagues' count so much higher than Bianchi and Morri's count. The text goes on to explain that factor: researchers have a relatively poor understanding of microorganisms' morphological variability, or the differences in microorganisms' structure and form. This poor understanding makes it hard to classify microorganisms by species and means that researchers' decisions about classifying microorganisms can have a large effect on the overall species counts that researchers report. Additionally, the text says that the two censuses reported similar numbers of vertebrate, plant, and algal species, which means that the difference in overall species did not come from differences in those categories. Given all this information, it most logically follows that Coll and colleagues may have treated some of the differences among microorganisms as indicative of the microorganisms being different species, whereas Bianchi and Morri treated those differences as variations within species, resulting in Coll and colleagues reporting many more species than Bianchi and Morri did.",
       "Choice C is incorrect because nothing in the text suggests that Bianchi and Morri may have been less sensitive to how much the form and structure of microorganisms vary within the same species than Coll and colleagues were. If Bianchi and Morri had been less sensitive to within-species variation than Coll and colleagues were, Bianchi and Morri would likely have reported more species than Coll and colleagues did, since less sensitivity to within-species variation would lead researchers to classify as different species microorganisms that more sensitive researchers would classify as variations within the same species. The text indicates, however, that Bianchi and Morri reported far fewer species than Coll and colleagues did; since the text also excludes other explanations for this difference, it suggests that in fact Bianchi and Morri were more sensitive to within-species variation than Coll and colleagues were, leading Bianchi and Morri to report fewer overall species.",
@@ -25,21 +25,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Medium",
-    "question_id": "87aa7bab",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "questionId": "87aa7bab",
+    "imagePath": null,
     "question": "A common assumption among art historians is that the invention of photography in the mid-nineteenth century displaced the painted portrait in the public consciousness. The diminishing popularity of the portrait miniature, which coincided with the rise of photography, seems to support this claim. However, photography's impact on the portrait miniature may be overstated. Although records from art exhibitions in the Netherlands from 1820 to 1892 show a decrease in the number of both full-sized and miniature portraits submitted, this trend was established before the invention of photography.\nBased on the text, what can be concluded about the diminishing popularity of the portrait miniature in the nineteenth century?",
-    "answer_choices": [
+    "answerChoices": [
       "Factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
       "Although portrait miniatures became less common than photographs, they were widely regarded as having more artistic merit.",
       "The popularity of the portrait miniature likely persisted for longer than art historians have assumed.",
       "As demand for portrait miniatures decreased, portrait artists likely shifted their creative focus to photography."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The text says that the impact of photography on the portrait miniature might be \"overstated,\" as some records show a decrease in the number of portrait miniatures before the invention of photography. From this, we can conclude that factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
       "Choice B is incorrect. The text never discusses the \"artistic merit\" of either art form.",
       "Choice C is incorrect. The text never suggests that the portrait miniature was popular for longer than historians thought—if anything, it suggests that the portrait miniature started losing its popularity earlier than historians thought.",
@@ -50,21 +50,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Hard",
-    "question_id": "a15b3219",
-    "image_path": "app/src/main/resources/questions/SAT/static/a15b3219.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "questionId": "a15b3219",
+    "imagePath": "app/src/main/resources/questions/SAT/static/a15b3219.png",
     "question": "Municipalities' Responses to Inquiries about Potential Incentives for Firm\n[GRAPH]\nIn the United States, firms often seek incentives from municipal governments to expand to those municipalities. A team of political scientists hypothesized that municipalities are much more likely to respond to firms and offer incentives if expansions can be announced in time to benefit local elected officials than if they can't. The team contacted officials in thousands of municipalities, inquiring about incentives for a firm looking to expand and indicating that the firm would announce its expansion on a date either just before or just after the next election.\nWhich choice best describes data from the graph that weaken the team's hypothesis?",
-    "answer_choices": [
+    "answerChoices": [
       "A large majority of the municipalities that received an inquiry mentioning plans for an announcement before the next election didn't respond to the inquiry.",
       "The proportion of municipalities that responded to the inquiry or offered incentives didn't substantially differ across the announcement timing conditions.",
       "Only around half the municipalities that responded to inquiries mentioning plans for an announcement before the next election offered incentives.",
       "Of the municipalities that received an inquiry mentioning plans for an announcement date after the next election, more than 1,200 didn't respond and only around 100 offered incentives."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement after election\" data for comparison.",
       "Choice B is the best answer. The lighter bars show what happened when the announcement was to come before the election, and the darker bars show what happened when the announcement was to come after the election. For all three of the outcomes, the light and dark bars are virtually the same, demonstrating that the announcement timing didn't actually make a difference.",
       "Choice C is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement after election\" data for comparison.",

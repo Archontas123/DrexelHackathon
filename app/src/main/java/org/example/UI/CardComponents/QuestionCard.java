@@ -7,6 +7,7 @@ import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.ItemEvent;
 import java.awt.geom.RoundRectangle2D;
+import java.net.URL;
 import org.example.models.Question;
 import org.example.UI.QuestionHandler;
 import org.example.UI.CardComponents.AnimationUtils; 
@@ -103,17 +104,48 @@ public class QuestionCard extends RoundedPanel {
         content.setLayout(new BoxLayout(content, BoxLayout.X_AXIS));
         content.setOpaque(false);
         content.setAlignmentX(Component.LEFT_ALIGNMENT);
-        JLabel imgPlaceholder = new JLabel(this.currentQuestion.getImagePath() != null && !this.currentQuestion.getImagePath().isEmpty() ? this.currentQuestion.getImagePath() : "Image Placeholder", SwingConstants.CENTER);
-        Dimension imgDim = new Dimension(180, 180);
-        imgPlaceholder.setPreferredSize(imgDim);
-        imgPlaceholder.setMinimumSize(imgDim);
-        imgPlaceholder.setMaximumSize(imgDim);
-        imgPlaceholder.setOpaque(true);
-        imgPlaceholder.setBackground(new Color(0xFFF0F0));
-        imgPlaceholder.setBorder(BorderFactory.createDashedBorder(accentColor, 2, 7, 3, true));
-        content.add(imgPlaceholder);
-        content.add(Box.createHorizontalStrut(20));
-        JTextArea qText = new JTextArea(this.currentQuestion.getQuestion()); 
+
+        if (this.currentQuestion.getImagePath() != null && !this.currentQuestion.getImagePath().isEmpty()) {
+            String imageResourcePath = "/questions/" + this.currentQuestion.getTest() + "/static/" + this.currentQuestion.getImagePath();
+            URL imageURL = getClass().getResource(imageResourcePath);
+            JLabel imgLabel = new JLabel();
+            imgLabel.setHorizontalAlignment(SwingConstants.CENTER);
+            Dimension imgDim = new Dimension(180, 180);
+            imgLabel.setPreferredSize(imgDim);
+            imgLabel.setMinimumSize(imgDim);
+            imgLabel.setMaximumSize(imgDim);
+
+            if (imageURL != null) {
+                ImageIcon originalIcon = new ImageIcon(imageURL);
+                Image originalImage = originalIcon.getImage();
+                
+                int panelWidth = imgDim.width;
+                int panelHeight = imgDim.height;
+                int imageWidth = originalImage.getWidth(null);
+                int imageHeight = originalImage.getHeight(null);
+
+                double aspectRatio = (double) imageWidth / imageHeight;
+                int newWidth = panelWidth;
+                int newHeight = (int) (panelWidth / aspectRatio);
+
+                if (newHeight > panelHeight) {
+                    newHeight = panelHeight;
+                    newWidth = (int) (panelHeight * aspectRatio);
+                }
+                
+                Image scaledImage = originalImage.getScaledInstance(newWidth, newHeight, Image.SCALE_SMOOTH);
+                imgLabel.setIcon(new ImageIcon(scaledImage));
+            } else {
+                imgLabel.setText("Image not found");
+                imgLabel.setOpaque(true);
+                imgLabel.setBackground(new Color(0xFFF0F0));
+                imgLabel.setBorder(BorderFactory.createDashedBorder(accentColor, 2, 7, 3, true));
+            }
+            content.add(imgLabel);
+            content.add(Box.createHorizontalStrut(20));
+        }
+
+        JTextArea qText = new JTextArea(this.currentQuestion.getQuestion());
         qText.setEditable(false);
         qText.setOpaque(false);
         qText.setLineWrap(true);
@@ -132,7 +164,8 @@ public class QuestionCard extends RoundedPanel {
         final Border selectedAnswerBorder = new RoundedBorder(accentColor, 15, 3);
         final Color normalAnswerPanelBg = new Color(0xFFF0F0);
         final Color selectedAnswerPanelBg = new Color(0xE6F0FA);
-
+        System.out.println("Answer choices: " + this.currentQuestion.getAnswerChoices());
+        System.out.println(this.currentQuestion);
         for (String choice : this.currentQuestion.getAnswerChoices()) { 
             JRadioButton rb = new JRadioButton(choice);
             rb.setForeground(Color.BLACK);

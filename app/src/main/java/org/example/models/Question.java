@@ -21,19 +21,8 @@ public class Question {
     private List<String> answerExplanations;
     private List<String> hints;
 
-    // Static method to load a list of questions from a JSON file
-    public static List<Question> loadQuestions(String jsonFilePath) {
-        try (FileReader reader = new FileReader(jsonFilePath)) {
-            Gson gson = new Gson();
-            Type questionListType = new TypeToken<List<Question>>() {}.getType();
-            return gson.fromJson(reader, questionListType);
-        } catch (IOException e) {
-            System.err.println("Failed to load questions: " + e.getMessage());
-            return null;
-        }
-    }
 
-    // Getters and setters
+
     public String getTest() { return test; }
     public void setTest(String test) { this.test = test; }
 
@@ -66,4 +55,21 @@ public class Question {
 
     public List<String> getHints() { return hints; }
     public void setHints(List<String> hints) { this.hints = hints; }
+
+    @Override
+    public String toString() {
+        return "Question{" +
+                "test='" + test + '\'' +
+                ", domain='" + domain + '\'' +
+                ", skill='" + skill + '\'' +
+                ", difficulty='" + difficulty + '\'' +
+                ", questionId='" + questionId + '\'' +
+                ", imagePath='" + imagePath + '\'' +
+                ", question='" + question + '\'' +
+                ", answerChoices=" + answerChoices +
+                ", correctAnswer=" + correctAnswer +
+                ", answerExplanations=" + answerExplanations +
+                ", hints=" + hints +
+                '}';
+    }
 }
