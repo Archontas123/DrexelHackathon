@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD
   {
     "Test": "Reading and Writing",
     "Domain": "Information and Ideas",
@@ -75,56 +74,4 @@
       null
     ]
   }
-=======
-    {
-      "Test": "Reading and Writing",
-      "Domain": "Information and Ideas",
-      "Skill": "Inferences",
-      "Difficulty": "Hard",
-      "question_id": "f1bfbed3",
-      "image_path": null,
-      "question": "Marta Coll and colleagues' 2010 Mediterranean Sea biodiversity census reported approximately 17,000 species, nearly double the number reported in Carlo Bianchi and Carla Morri's 2000 census—a difference only partly attributable to the description of new invertebrate species in the interim. Another factor is that the morphological variability of microorganisms is poorly understood compared to that of vertebrates, invertebrates, plants, and algae, creating uncertainty about how to evaluate microorganisms as species. Researchers' decisions on such matters therefore can be highly consequential. Indeed, the two censuses reported similar counts of vertebrate, plant, and algal species, suggesting that _______\nWhich choice most logically completes the text?",
-      "answer_choices": [
-        "Coll and colleagues reported a much higher number of species than Bianchi and Morri did largely due to the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri's census.",
-        "some differences observed in microorganisms may have been treated as variations within species by Bianchi and Morri but treated as indicative of distinct species by Coll and colleagues.",
-        "Bianchi and Morri may have been less sensitive to the degree of morphological variation displayed within a typical species of microorganism than Coll and colleagues were.",
-        "the absence of clarity regarding how to differentiate among species of microorganisms may have resulted in Coll and colleagues underestimating the number of microorganism species."
-      ],
-      "correct_answer": "B",
-      "answer_explanations": [
-        "Choice A is incorrect because the text explicitly addresses this issue by stating that the description of new invertebrate species in the years between the two studies can explain only part of the difference in the number of species reported by the studies. The focus of the text is on explaining the difference between Coll and colleagues' count and Bianchi and Morri's count that cannot be accounted for by the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri's study.",
-        "Choice B is the best answer because it presents the conclusion that most logically completes the text's discussion of the different counts of species in the Mediterranean Sea. The text states that Coll and colleagues reported almost double the number of species that Bianchi and Morri reported in their study ten years earlier. According to the text, this difference can only be partly attributed to new invertebrate species being described in the years between the two studies, which means there must be an additional factor that made Coll and colleagues' count so much higher than Bianchi and Morri's count. The text goes on to explain that factor: researchers have a relatively poor understanding of microorganisms' morphological variability, or the differences in microorganisms' structure and form. This poor understanding makes it hard to classify microorganisms by species and means that researchers' decisions about classifying microorganisms can have a large effect on the overall species counts that researchers report. Additionally, the text says that the two censuses reported similar numbers of vertebrate, plant, and algal species, which means that the difference in overall species did not come from differences in those categories. Given all this information, it most logically follows that Coll and colleagues may have treated some of the differences among microorganisms as indicative of the microorganisms being different species, whereas Bianchi and Morri treated those differences as variations within species, resulting in Coll and colleagues reporting many more species than Bianchi and Morri did.",
-        "Choice C is incorrect because nothing in the text suggests that Bianchi and Morri may have been less sensitive to how much the form and structure of microorganisms vary within the same species than Coll and colleagues were. If Bianchi and Morri had been less sensitive to within-species variation than Coll and colleagues were, Bianchi and Morri would likely have reported more species than Coll and colleagues did, since less sensitivity to within-species variation would lead researchers to classify as different species microorganisms that more sensitive researchers would classify as variations within the same species. The text indicates, however, that Bianchi and Morri reported far fewer species than Coll and colleagues did; since the text also excludes other explanations for this difference, it suggests that in fact Bianchi and Morri were more sensitive to within-species variation than Coll and colleagues were, leading Bianchi and Morri to report fewer overall species.",
-        "Choice D is incorrect because the text is focused on explaining why Coll and colleagues reported many more species than Bianchi and Morri did, and an underestimate of the number of microorganism species by Coll and colleagues would not explain that difference—it would suggest, in fact, that the difference in the number of species should have been even larger."
-      ],
-      "hints": [
-        null
-      ]
-    },
-    {
-      "Test": "Reading and Writing",
-      "Domain": "Information and Ideas",
-      "Skill": "Central Ideas and Details",
-      "Difficulty": "Medium",
-      "question_id": "87aa7bab",
-      "image_path": null,
-      "question": "A common assumption among art historians is that the invention of photography in the mid-nineteenth century displaced the painted portrait in the public consciousness. The diminishing popularity of the portrait miniature, which coincided with the rise of photography, seems to support this claim. However, photography's impact on the portrait miniature may be overstated. Although records from art exhibitions in the Netherlands from 1820 to 1892 show a decrease in the number of both full-sized and miniature portraits submitted, this trend was established before the invention of photography.\nBased on the text, what can be concluded about the diminishing popularity of the portrait miniature in the nineteenth century?",
-      "answer_choices": [
-        "Factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
-        "Although portrait miniatures became less common than photographs, they were widely regarded as having more artistic merit.",
-        "The popularity of the portrait miniature likely persisted for longer than art historians have assumed.",
-        "As demand for portrait miniatures decreased, portrait artists likely shifted their creative focus to photography."
-      ],
-      "correct_answer": "A",
-      "answer_explanations": [
-        "Choice A is the best answer. The text says that the impact of photography on the portrait miniature might be \"overstated,\" as some records show a decrease in the number of portrait miniatures before the invention of photography. From this, we can conclude that factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
-        "Choice B is incorrect. The text never discusses the \"artistic merit\" of either art form.",
-        "Choice C is incorrect. The text never suggests that the portrait miniature was popular for longer than historians thought—if anything, it suggests that the portrait miniature started losing its popularity earlier than historians thought.",
-        "Choice D is incorrect. The text never suggests that portrait painters shifted to become photographers."
-      ],
-      "hints": [
-        null
-      ]
-    }
->>>>>>> 51d7a833946f29f909c982ad50710557dad28429
 ]
