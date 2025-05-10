@@ -7,7 +7,7 @@ import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.ItemEvent;
 import java.awt.geom.RoundRectangle2D;
-import org.example.UI.Question;
+import org.example.models.Question;
 import org.example.UI.QuestionHandler;
 import org.example.UI.CardComponents.AnimationUtils; 
 

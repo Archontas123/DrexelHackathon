@@ -1,6 +1,8 @@
 package org.example.UI;
 
 import org.example.UI.CardComponents.QuestionCard;
+import org.example.models.Question;
+
 import java.awt.Color;
 
 public class QuestionHandler {
