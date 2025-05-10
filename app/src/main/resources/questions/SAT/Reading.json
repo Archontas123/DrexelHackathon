@@ -1,0 +1,28 @@
+[
+   {
+     "Test": "Reading and Writing",
+     "Domain": "Information and Ideas",
+     "Skill": "Inferences",
+     "Difficulty": "3",
+     "question_id": "Q00123",
+     "image_path": "triangle_diagram.png",
+     "question": "A triangle has a base of 10 units and a height of 5 units. What is its area?",
+     "answer_choices": [
+       "10",
+       "15",
+       "25",
+       "50"
+     ],
+     "correct_answer": 2,
+     "answer_explanations": [
+       "Area = ½·10·5 = 25, not 10.",
+       "15 is too small; you may have computed 3·5.",
+       "Correct: ½·10·5 = 25.",
+       "50 would be base×height without the ½."
+     ],
+     "hints": [
+       "Recall the formula for the area of a triangle.",
+       "Multiply base by height, then take half."
+     ]
+   }
+ ]
