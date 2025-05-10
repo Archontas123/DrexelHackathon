@@ -1,4 +1,4 @@
-package org.example.UI;
+package org.example.models;
 
 public class Question {
 

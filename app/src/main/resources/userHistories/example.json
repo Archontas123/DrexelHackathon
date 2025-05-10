@@ -1,8 +1,11 @@
 {
     "username": "John Smith",
-    "question_history": {
-      "question_001": true,
-      "question_002": false,
-      "question_003": true
-    }
+    "questions_right": [
+      "question_001",
+      "question_003"
+    ],
+    "questions_wrong": [
+      "question_002"
+    ]
 }
+
