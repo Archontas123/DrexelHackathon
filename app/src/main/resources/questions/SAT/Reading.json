@@ -1,20 +1,20 @@
 [
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Hard",
-    "question_id": "f1bfbed3",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "questionId": "f1bfbed3",
+    "imagePath": null,
     "question": "Marta Coll and colleagues' 2010 Mediterranean Sea biodiversity census reported approximately 17,000 species, nearly double the number reported in Carlo Bianchi and Carla Morri's 2000 census—a difference only partly attributable to the description of new invertebrate species in the interim. Another factor is that the morphological variability of microorganisms is poorly understood compared to that of vertebrates, invertebrates, plants, and algae, creating uncertainty about how to evaluate microorganisms as species. Researchers' decisions on such matters therefore can be highly consequential. Indeed, the two censuses reported similar counts of vertebrate, plant, and algal species, suggesting that _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "Coll and colleagues reported a much higher number of species than Bianchi and Morri did largely due to the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri's census.",
       "some differences observed in microorganisms may have been treated as variations within species by Bianchi and Morri but treated as indicative of distinct species by Coll and colleagues.",
       "Bianchi and Morri may have been less sensitive to the degree of morphological variation displayed within a typical species of microorganism than Coll and colleagues were.",
       "the absence of clarity regarding how to differentiate among species of microorganisms may have resulted in Coll and colleagues underestimating the number of microorganism species."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect because the text explicitly addresses this issue by stating that the description of new invertebrate species in the years between the two studies can explain only part of the difference in the number of species reported by the studies. The focus of the text is on explaining the difference between Coll and colleagues' count and Bianchi and Morri's count that cannot be accounted for by the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri's study.",
       "Choice B is the best answer because it presents the conclusion that most logically completes the text's discussion of the different counts of species in the Mediterranean Sea. The text states that Coll and colleagues reported almost double the number of species that Bianchi and Morri reported in their study ten years earlier. According to the text, this difference can only be partly attributed to new invertebrate species being described in the years between the two studies, which means there must be an additional factor that made Coll and colleagues' count so much higher than Bianchi and Morri's count. The text goes on to explain that factor: researchers have a relatively poor understanding of microorganisms' morphological variability, or the differences in microorganisms' structure and form. This poor understanding makes it hard to classify microorganisms by species and means that researchers' decisions about classifying microorganisms can have a large effect on the overall species counts that researchers report. Additionally, the text says that the two censuses reported similar numbers of vertebrate, plant, and algal species, which means that the difference in overall species did not come from differences in those categories. Given all this information, it most logically follows that Coll and colleagues may have treated some of the differences among microorganisms as indicative of the microorganisms being different species, whereas Bianchi and Morri treated those differences as variations within species, resulting in Coll and colleagues reporting many more species than Bianchi and Morri did.",
       "Choice C is incorrect because nothing in the text suggests that Bianchi and Morri may have been less sensitive to how much the form and structure of microorganisms vary within the same species than Coll and colleagues were. If Bianchi and Morri had been less sensitive to within-species variation than Coll and colleagues were, Bianchi and Morri would likely have reported more species than Coll and colleagues did, since less sensitivity to within-species variation would lead researchers to classify as different species microorganisms that more sensitive researchers would classify as variations within the same species. The text indicates, however, that Bianchi and Morri reported far fewer species than Coll and colleagues did; since the text also excludes other explanations for this difference, it suggests that in fact Bianchi and Morri were more sensitive to within-species variation than Coll and colleagues were, leading Bianchi and Morri to report fewer overall species.",
@@ -25,21 +25,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Medium",
-    "question_id": "87aa7bab",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "questionId": "87aa7bab",
+    "imagePath": null,
     "question": "A common assumption among art historians is that the invention of photography in the mid-nineteenth century displaced the painted portrait in the public consciousness. The diminishing popularity of the portrait miniature, which coincided with the rise of photography, seems to support this claim. However, photography's impact on the portrait miniature may be overstated. Although records from art exhibitions in the Netherlands from 1820 to 1892 show a decrease in the number of both full-sized and miniature portraits submitted, this trend was established before the invention of photography.\nBased on the text, what can be concluded about the diminishing popularity of the portrait miniature in the nineteenth century?",
-    "answer_choices": [
+    "answerChoices": [
       "Factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
       "Although portrait miniatures became less common than photographs, they were widely regarded as having more artistic merit.",
       "The popularity of the portrait miniature likely persisted for longer than art historians have assumed.",
       "As demand for portrait miniatures decreased, portrait artists likely shifted their creative focus to photography."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The text says that the impact of photography on the portrait miniature might be \"overstated,\" as some records show a decrease in the number of portrait miniatures before the invention of photography. From this, we can conclude that factors other than the rise of photography may be more directly responsible for the portrait miniature's decline.",
       "Choice B is incorrect. The text never discusses the \"artistic merit\" of either art form.",
       "Choice C is incorrect. The text never suggests that the portrait miniature was popular for longer than historians thought—if anything, it suggests that the portrait miniature started losing its popularity earlier than historians thought.",
@@ -50,21 +50,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Hard",
-    "question_id": "a15b3219",
-    "image_path": "app/src/main/resources/questions/SAT/static/a15b3219.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "questionId": "a15b3219",
+    "imagePath": "app/src/main/resources/questions/SAT/static/a15b3219.png",
     "question": "In the United States, firms often seek incentives from municipal governments to expand to those municipalities. A team of political scientists hypothesized that municipalities are much more likely to respond to firms and offer incentives if expansions can be announced in time to benefit local elected officials than if they can't. The team contacted officials in thousands of municipalities, inquiring about incentives for a firm looking to expand and indicating that the firm would announce its expansion on a date either just before or just after the next election.\nWhich choice best describes data from the graph that weaken the team's hypothesis?",
-    "answer_choices": [
+    "answerChoices": [
       "A large majority of the municipalities that received an inquiry mentioning plans for an announcement before the next election didn't respond to the inquiry.",
       "The proportion of municipalities that responded to the inquiry or offered incentives didn't substantially differ across the announcement timing conditions.",
       "Only around half the municipalities that responded to inquiries mentioning plans for an announcement before the next election offered incentives.",
       "Of the municipalities that received an inquiry mentioning plans for an announcement date after the next election, more than 1,200 didn't respond and only around 100 offered incentives."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement after election\" data for comparison.",
       "Choice B is the best answer. The lighter bars show what happened when the announcement was to come before the election, and the darker bars show what happened when the announcement was to come after the election. For all three of the outcomes, the light and dark bars are virtually the same, demonstrating that the announcement timing didn't actually make a difference.",
       "Choice C is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement after election\" data for comparison.",
@@ -75,21 +75,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Medium",
-    "question_id": "d748c3fd",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Medium",
+    "questionId": "d748c3fd",
+    "imagePath": null,
     "question": "In her 2021 article \"Throwaway History: Towards a Historiography of Ephemera,\" scholar Anne Garner discusses John Johnson (1882–1956), a devoted collector of items intended to be discarded, including bus tickets and campaign pamphlets. Johnson recognized that scholarly institutions considered his expansive collection of ephemera to be worthless—indeed, it wasn't until 1968, after Johnson's death, that Oxford University's Bodleian Library acquired the collection, having grasped the items' potential value to historians and other researchers. Hence, the example of Johnson serves to _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "demonstrate the difficulties faced by contemporary historians in conducting research at the Bodleian Library without access to ephemera.",
       "represent the challenge of incorporating examples of ephemera into the collections of libraries and other scholarly institutions.",
       "lend support to arguments by historians and other researchers who continue to assert that ephemera holds no value for scholars.",
       "illustrate both the relatively low scholarly regard in which ephemera was once held and the later recognition of ephemera's possible utility."
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. This inference isn't supported. The text tells us that the Bodleian Library acquired Johnson's large collection of ephemera back in 1968, so we can assume that contemporary historians conducting research there do have access to that collection.",
       "Choice B is incorrect. This inference isn't supported. The text tells us that \"Oxford University's Bodleian Library acquired the collection,\" but it never suggests that it was a challenge to do so.",
       "Choice C is incorrect. This inference isn't supported. The text actually suggests the opposite: the example of Johnson's collection lends support to arguments that ephemera does hold value for scholars.",
@@ -100,21 +100,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Hard",
-    "question_id": "ed314256",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "questionId": "ed314256",
+    "imagePath": null,
     "question": "The most recent iteration of the immersive theater experience Sleep No More, which premiered in New York City in 2011, transforms its performance space—a five-story warehouse—into a 1930s-era hotel. Audience members, who wander through the labyrinthine venue at their own pace and follow the actors as they play out simultaneous, interweaving narrative loops, confront the impossibility of experiencing the production in its entirety. The play's refusal of narrative coherence thus hinges on the sense of spatial fragmentation that the venue's immense and intricate layout generates.\nWhat does the text most strongly suggest about Sleep No More's use of its performance space?",
-    "answer_choices": [
+    "answerChoices": [
       "The choice of a New York City venue likely enabled the play's creators to experiment with the use of theatrical space in a way that venues from earlier productions could not.",
       "Audience members likely find the experience of the play disappointing because they generally cannot make their way through the entire venue.",
       "The production's dependence on a particular performance environment would likely make it difficult to reproduce exactly in a different theatrical space.",
       "Audience members who navigate the space according to a recommended itinerary will likely have a better grasp of the play's narrative than audience members who depart from that itinerary."
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect. The fact that the venue is in New York City isn't connected to the experimental nature of the performance. It's the size of the venue, not its location in New York, that affects the theatrical experience.",
       "Choice B is incorrect. The text never suggests that audience members are disappointed because they can't see the entire production. In fact, it suggests that that's an important part of the experience.",
       "Choice C is the best answer. The text says that the production's use of its large, winding space has a very specific effect on the audience. Given that the space itself is so important to creating this effect, it would be difficult to reproduce the production in a different space.",
@@ -125,21 +125,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Medium",
-    "question_id": "22e4d633",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "questionId": "22e4d633",
+    "imagePath": null,
     "question": "Although many transposons, DNA sequences that move within an organism's genome through shuffling or duplication, have become corrupted and inactive over time, those from the long interspersed nuclear elements (LINE) family appear to remain active in the genomes of some species. In humans, they are functionally important within the hippocampus, a brain structure that supports complex cognitive processes. When the results of molecular analysis of two species of octopus—an animal known for its intelligence—were announced in 2022, the confirmation of a LINE transposon in Octopus vulgaris and Octopus bimaculoides genomes prompted researchers to hypothesize that that transposon family is tied to a species' capacity for advanced cognition.\nWhich finding, if true, would most directly support the researchers' hypothesis?",
-    "answer_choices": [
+    "answerChoices": [
       "The LINE transposon in O. vulgaris and O. bimaculoides genomes is active in an octopus brain structure that functions similarly to the human hippocampus.",
       "The human genome contains multiple transposons from the LINE family that are all primarily active in the hippocampus.",
       "A consistent number of copies of LINE transposons is present across the genomes of most octopus species, with few known corruptions.",
       "O. vulgaris and O. bimaculoides have smaller brains than humans do relative to body size, but their genomes contain sequences from a wider variety of transposon families."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The text says that LINE transposons are important in the human hippocampus, which supports complex cognition. If the LINE transposon found in octopuses is active in a similar part of their brain, that would suggest that LINE transposons support complex cognition in octopuses too, which in turn supports the hypothesis that LINE transposons are linked to advanced cognition in general.",
       "Choice B is incorrect. This choice doesn't support the hypothesis. It doesn't include anything about how LINE transposons function in species other than humans.",
       "Choice C is incorrect. This choice doesn't support the hypothesis. It doesn't include anything about how the LINE transposon in octopuses might support advanced cognition.",
@@ -150,21 +150,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Medium",
-    "question_id": "602b47c7",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "questionId": "602b47c7",
+    "imagePath": null,
     "question": "Biologists have predicted that birds' feather structures vary with habitat temperature, but this hadn't been tested in mountain environments. Ornithologist Sahas Barve studied feathers from 249 songbird species inhabiting different elevations—and thus experiencing different temperatures—in the Himalaya Mountains. He found that feathers of high-elevation species not only have a greater proportion of warming downy sections to flat and smooth sections than do feathers of low-elevation species, but high-elevation species' feathers also tend to be longer, providing a thicker layer of insulation.\nWhich choice best states the main idea of the text?",
-    "answer_choices": [
+    "answerChoices": [
       "Barve's investigation shows that some species of Himalayan songbirds have evolved feathers that better regulate body temperature than do the feathers of other species, contradicting previous predictions.",
       "Barve found an association between habitat temperature and feather structure among Himalayan songbirds, lending new support to a general prediction.",
       "Barve discovered that songbirds have adapted to their environment by growing feathers without flat and smooth sections, complicating an earlier hypothesis.",
       "The results of Barve's study suggest that the ability of birds to withstand cold temperatures is determined more strongly by feather length than feather structure, challenging an established belief."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. Barve's study isn't said to contradict previous predictions. In fact, the study supports the prediction described in the first sentence, which is that birds' feather structures vary with habitat temperature.",
       "Choice B is the best answer. The text describes how Barve found an association between habitat temperature and feather structure among Himalayan songbirds, which supports the general prediction that birds' feather structures vary with habitat temperature.",
       "Choice C is incorrect. Barve's study isn't said to \"complicate an earlier hypothesis.\" In fact, the study supports the earlier prediction described in the first sentence, which is that birds' feather structures vary with habitat temperature.",
@@ -175,21 +175,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Hard",
-    "question_id": "ce4448b7",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "questionId": "ce4448b7",
+    "imagePath": null,
     "question": "Researchers recently found that disruptions to an enjoyable experience, like a short series of advertisements during a television show, often increase viewers' reported enjoyment. Suspecting that disruptions to an unpleasant experience would have the opposite effect, the researchers had participants listen to construction noise for 30 minutes and anticipated that those whose listening experience was frequently interrupted with short breaks of silence would thus _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "find the disruptions more irritating as time went on.",
       "rate the listening experience as more negative than those whose listening experience was uninterrupted.",
       "rate the experience of listening to construction noise as lasting for less time than it actually lasted.",
       "perceive the volume of the construction noise as growing softer over time."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. It doesn't logically complete the text. The text never makes any claims about how irritating the disruptions themselves are perceived to be. Rather, the text says that pleasant experiences are perceived as more enjoyable with interruptions, and that the opposite is suspected to be true of unpleasant experiences.",
       "Choice B is the best answer. It most logically completes the text. The text tells us that disruptions to an enjoyable experience increase viewers' enjoyment. It also says that researchers suspect the opposite is true for disruptions to an unpleasant experience. Thus, we can infer that the researchers expect to find that the interrupted unpleasant experience was worse for listeners than the uninterrupted unpleasant experience.",
       "Choice C is incorrect. It doesn't logically complete the text. The text never makes any claims about how long any experience is perceived to be. Rather, the text says that pleasant experiences are perceived as more enjoyable with interruptions, and that the opposite is suspected to be true of unpleasant experiences.",
@@ -200,21 +200,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Hard",
-    "question_id": "7a1877be",
-    "image_path": "app/src/main/resources/questions/SAT/static/7a1877be.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "questionId": "7a1877be",
+    "imagePath": "app/src/main/resources/questions/SAT/static/7a1877be.png",
     "question": "Employing high-performance liquid chromatography—a process that uses pressurized water to separate material into its component molecules—astrochemist Yashiro Oba and colleagues analyzed two samples of the Murchison meteorite that landed in Australia as well as soil from the landing zone of the meteorite to determine the concentrations of various organic molecules. By comparing the relative concentrations of types of molecules known as nucleobases in the Murchison meteorite with those in the soil, the team concluded that there is evidence that the nucleobases in the Murchison meteorite formed in space and are not the result of contamination on Earth.\nWhich choice best describes data from the table that support the team's conclusion?",
-    "answer_choices": [
+    "answerChoices": [
       "Isoguanine and purine were detected in both meteorite samples but not in the soil sample.",
       "Adenine and xanthine were detected in both of the meteorite samples and in the soil sample.",
       "Hypoxanthine and purine were detected in both the Murchison meteorite sample 2 and in the soil sample.",
       "Isoguanine and hypoxanthine were detected in the Murchison meteorite sample 1 but not in sample 2."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The researchers concluded that the meteorite's nucleobases weren't the result of soil contamination. Presence of nucleobases in the meteorite and not in soil provides evidence that those nucleobases likely didn't come from the soil.",
       "Choice B is incorrect. This choice doesn't justify the conclusion. The researchers concluded that the meteorite's nucleobases weren't the result of soil contamination. If the nucleobases are present in both the soil and meteorite, then it's possible that these nucleobases came from the soil.",
       "Choice C is incorrect. This choice misreads the table. Purine was not detected in the soil sample.",
@@ -225,21 +225,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Medium",
-    "question_id": "11a9f635",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Medium",
+    "questionId": "11a9f635",
+    "imagePath": null,
     "question": "Paleontologists searching for signs of ancient life have found many fossilized specimens of prehistoric human ancestors, including several from the Pleistocene era discovered in a geological formation in the Minatogawa quarry in Japan. However, to study the emergence of the earliest multicellular organisms to appear on Earth, researchers must turn elsewhere, such as to the Ediacaran geological formation at Mistaken Point in Canada. A UNESCO World Heritage Site, the 146-hectare reserve contains more than 10,000 fossils that together document a critical moment in evolutionary history.\nWhat does the text indicate about the geological formation at Mistaken Point?",
-    "answer_choices": [
+    "answerChoices": [
       "It holds a greater number of fossils but from a smaller variety of species than the formation in the Minatogawa quarry does.",
       "It has provided evidence that the earliest human species may have emerged before the Pleistocene era.",
       "It is widely considered by paleontologists to be the most valuable source of information about prehistoric life forms.",
       "It contains specimens from an older time period than those found in the formation in the Minatogawa quarry."
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. The text says that the formation at Mistake Point contains \"more than 10,000 fossils,\" but it doesn't compare this number to the number of fossils in the Minatogawa quarry. It also doesn't say anything about the variety of species in either formation.",
       "Choice B is incorrect. The text says that the formation at Mistaken Point contains fossils of \"the earliest multicellular organisms,\" but it never says that the site contains early human fossils too. Rather, the early human fossils mentioned in the text were found in the formation at Minatogawa quarry.",
       "Choice C is incorrect. The text says that the fossils at Mistaken Point \"document a critical moment in evolutionary history,\" but it never says that Mistaken Point is the most valuable source of information about prehistoric life forms.",
@@ -250,21 +250,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Medium",
-    "question_id": "d5b9ed0d",
-    "image_path": "app/src/main/resources/questions/SAT/static/d5b9ed0d.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "questionId": "d5b9ed0d",
+    "imagePath": "app/src/main/resources/questions/SAT/static/d5b9ed0d.png",
     "question": "To understand how expressions of anger in reviews of products affect readers of those reviews, business scholar Dezhi Yin and colleagues measured study participants' responses to three versions of the same negative review—a control review expressing no anger, a review expressing a high degree of anger, and a review expressing a low degree of anger. Reviewing the data, a student concludes that the mere presence of anger in a review may not negatively affect readers' perceptions of the review, but a high degree of anger in a review does worsen readers' perceptions of the review.\nWhich choice best describes data from the graph that support the students' conclusion?",
-    "answer_choices": [
+    "answerChoices": [
       "On average, participants' ratings of the helpfulness of the review were substantially higher than were participants' ratings of the reviewed product regardless of which type of review participants had seen.",
       "Compared with participants who saw the control review, participants who saw the low-anger review rated the review as slightly more helpful, whereas participants who saw the high-anger review rated the review as less helpful.",
       "Participants who saw the low-anger review rated the review as slightly more helpful than participants who saw the control review did, but participants' attitude toward the reviewed product was slightly worse when participants saw the low-anger review than when they saw the no-anger review.",
       "Compared with participants who saw the low-anger review, participants who saw the high-anger review rated the review as less helpful and had a less positive attitude toward the reviewed product."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. This choice does not support the conclusion. The conclusion is only about how participants feel about the review itself—the participants' ratings of the reviewed product are not relevant.",
       "Choice B is the best answer. The claim is that low anger does not negatively affect readers' perceptions of the review, while high anger does negatively affect readers' perceptions of the review. This choice accurately expresses the supporting data from the \"helpfulness of review\" part of the graph: that low-anger reviews were rated as slightly more helpful than no-anger reviews, while high-anger reviews were rated as less helpful than no-anger reviews.",
       "Choice C is incorrect. This choice does not support the conclusion. The conclusion is only about how participants feel about the review itself—the participants' attitude towards the reviewed product is not relevant.",
@@ -275,21 +275,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Hard",
-    "question_id": "04cbeca3",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "questionId": "04cbeca3",
+    "imagePath": null,
     "question": "In 1534 CE, King Henry VIII of England split with the Catholic Church and declared himself head of the Church of England, in part because Pope Clement VII refused to annul his marriage to Catherine of Aragon. Two years later, Henry VIII introduced a policy titled the Dissolution of the Monasteries that by 1540 had resulted in the closure of all Catholic monasteries in England and the confiscation of their estates. Some historians assert that the enactment of the policy was primarily motivated by perceived financial opportunities.\nWhich quotation from a scholarly article best supports the assertion of the historians mentioned in the text?",
-    "answer_choices": [
+    "answerChoices": [
       "\"At the time of the Dissolution of the Monasteries, about 2 percent of the adult male population of England were monks; by 1690, the proportion of the adult male population who were monks was less than 1 percent.\"",
       "\"A contemporary description of the Dissolution of the Monasteries, Michael Sherbrook's Falle of the Religious Howses, recounts witness testimony that monks were allowed to keep the contents of their cells and that the monastery timber was purchased by local yeomen.\"",
       "\"In 1535, the year before enacting the Dissolution of the Monasteries, Henry commissioned a survey of the value of church holdings in England—the work, performed by sheriffs, bishops, and magistrates, began that January and was swiftly completed by the summer.\"",
       "\"The October 1536 revolt known as the Pilgrimage of Grace had several economic motives: high food prices due to a poor harvest the prior year; the Dissolution of the Monasteries, which closed reliable sources of food and shelter for many; and rents and taxes throughout Northern England that were not merely high but predatory.”"
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect. This choice describes a potential effect of the Dissolution of the Monasteries. The decrease in the proportion of monks in England isn't relevant to the question of Henry VIII's motivations.",
       "Choice B is incorrect. Details about how the monks were treated during the dissolution don't address Henry VIII's motivations for enacting the policy in the first place. That the monks could keep the content of their cells (their rooms) and sell off the timber they'd harvested has no impact on the value of the monasteries' estates—their land holdings.",
       "Choice C is the best answer. The fact that Henry VIII commissioned a survey of church holdings just before enacting the Dissolution of the Monasteries suggests that he was interested in the potential profits from claiming their assets. This supports the historians' assertion.",
@@ -300,21 +300,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Hard",
-    "question_id": "2fdfe002",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Hard",
+    "questionId": "2fdfe002",
+    "imagePath": null,
     "question": "The following text is adapted from Countee Cullen's 1926 poem \"Thoughts in a Zoo.\"\nThey in their cruel traps, and we in ours, Survey each other's rage, and pass the hours\nCommiserating each the other's woe, To mitigate his own pain's fiery glow. Man could but little proffer in exchange\nSave that his cages have a larger range. That lion with his lordly, untamed heart\nHas in some man his human counterpart, Some lofty soul in dreams and visions wrapped,\nBut in the stifling flesh securely trapped.\nBased on the text, what challenge do humans sometimes experience?",
-    "answer_choices": [
+    "answerChoices": [
       "They cannot effectively tame certain wild animals because of a lack of compassion.",
       "They cannot focus on setting attainable goals because of a lack of motivation.",
       "They quickly become frustrated when faced with difficult tasks because of a lack of self-control.",
       "They have aspirations that cannot be fulfilled because of certain limitations."
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. The speaker says that the lion has an \"untamed heart,\" but the speaker doesn't actually mention anything about humans taming wild animals or a lack of compassion.",
       "Choice B is incorrect. The speaker doesn't suggest that humans lack motivation. Rather, the speaker thinks that humans are \"trapped\" and prevented from achieving their dreams.",
       "Choice C is incorrect. The speaker doesn't mention anything about humans becoming frustrated or lacking self-control. Rather, the speaker thinks that humans are “trapped” and prevented from achieving their dreams.",
@@ -325,21 +325,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Easy",
-    "question_id": "6f626ae5",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "questionId": "6f626ae5",
+    "imagePath": null,
     "question": "\"To You\" is an 1856 poem by Walt Whitman. In the poem, Whitman suggests that readers, whom he addresses directly, have not fully understood themselves, writing, _______\nWhich quotation from “To You” most effectively illustrates the claim?",
-    "answer_choices": [
+    "answerChoices": [
       "\"You have not known what you are, you have slumber'd upon yourself / all your life, / Your eyelids have been the same as closed most of the time.\"",
       "\"These immense meadows, these interminable rivers, you are immense / and interminable as they.\"",
       "\"I should have made my way straight to you long ago, / I should have blabb'd nothing but you, I should have chanted nothing / but you.\"",
       "\"I will leave all and come and make the hymns of you, / None has understood you, but I understand you.\""
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer because it presents the quotation that most directly illustrates the claim that Whitman's poem suggests that its readers haven't fully understood themselves. This quotation makes that point directly by saying to readers, \"You have not known what you are.\" The quotation goes on to reinforce this point using a metaphor of sleep, saying that readers have \"slumber'd” and that their \"eyelids have been the same as closed most of the time.\"",
       "Choice B is incorrect because this quotation doesn't suggest that readers haven't fully understood themselves but instead characterizes readers as “immense” and “interminable.” Although immense and interminable things can be difficult to understand, this quotation doesn't make that point.",
       "Choice C is incorrect because this quotation doesn't suggest that readers haven't fully understood themselves but instead conveys the speaker's regret over not having celebrated readers sooner. In fact, this quotation says nothing at all about readers themselves—it's focused solely on the speaker's feelings about readers.",
@@ -350,21 +350,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Hard",
-    "question_id": "ccb1ab92",
-    "image_path": "app/src/main/resources/questions/SAT/static/ccb1ab92.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "questionId": "ccb1ab92",
+    "imagePath": "app/src/main/resources/questions/SAT/static/ccb1ab92.png",
     "question": "Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they're in the water, they get almost none. In a study of fur seals' sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study _______\nWhich choice most effectively uses data from the graph to complete the text?",
-    "answer_choices": [
+    "answerChoices": [
       "didn't show significantly less REM sleep during the second day after returning to land than they did during the first day.",
       "showed no significant differences from one another in baseline levels of REM sleep.",
       "didn't consistently demonstrate a significant increase in REM sleep after their period of deprivation in the water.",
       "showed no significant difference between REM sleep after returning to land and REM sleep while in the water."
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect. This doesn't support the conclusion. If REM sleep were homeostatically regulated in fur seals, then we'd suspect the seals to sustain REM levels well above baseline for a prolonged period in order to compensate for weeks of REM deprivation while in the water. Whether or not there's a reduction in REM sleep from day 1 to day 2 doesn't tell us how REM sleep on those days relates to baseline, which is where our focus should be.",
       "Choice B is incorrect. The y-axis of this graph doesn't depict baseline levels of REM sleep, but rather shows REM sleep as a percent of baseline.",
       "Choice C is the best answer. If REM sleep were homeostatically regulated in fur seals, then all the seals would compensate with REM levels significantly over baseline after going weeks without REM. We'd also expect the seals to maintain those elevated REM levels for some time. Since seals B and C return very quickly to baseline REM levels, this suggests that REM sleep in fur seals may not be regulated homeostatically.",
@@ -375,21 +375,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Easy",
-    "question_id": "85439572",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "questionId": "85439572",
+    "imagePath": null,
     "question": "Roasted green chiles are a popular ingredient in Southwestern cuisine, but the traditional roasting method of burning propane is not environmentally friendly. To see if solar power could provide a better alternative, engineer Kenneth Armijo and his team roasted batches of green chiles using between 38 and 42 heliostats, which are devices that concentrate sunlight. The team was successful in reaching the same roasting temperature used in traditional propane roasting, but they found that propane yielded faster results. While the fastest solar-roasted green chiles took six minutes, batches using propane took only four. Armijo hypothesizes that they can reduce the roasting time for solar-roasted green chiles by using more heliostats.\nWhich finding, if true, would most directly support Armijo's hypothesis?",
-    "answer_choices": [
+    "answerChoices": [
       "The temperature inside the roasting drum is distributed more evenly when roasting green chiles with solar power than with propane.",
       "Attempts to roast green chiles using 50 heliostats yields results in fewer than six minutes.",
       "Green chile connoisseurs prefer the flavor of solar-roasted green chiles over the flavor of propane-roasted green chiles.",
       "The skins of solar-roasted green chiles are easier to peel than the skins of propane-roasted green chiles."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. The evenness of temperature in the roasting drum doesn't tell us about the speed of the roasting process, which is what Armijo's hypothesis is concerned with.",
       "Choice B is the best answer. Armijo believes that using more heliostats will speed up the roasting process, and this finding shows that with 50 heliostats—more than the number of heliostats already used—the roasting time is indeed reduced.",
       "Choice C is incorrect. Armijo's hypothesis is focused on the speed of the roasting process, not the flavor of the resulting roasted chiles.",
@@ -400,21 +400,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Easy",
-    "question_id": "a9040290",
-    "image_path": "app/src/main/resources/questions/SAT/static/a9040290.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Easy",
+    "questionId": "a9040290",
+    "imagePath": "app/src/main/resources/questions/SAT/static/a9040290.png",
     "question": "Electric companies that use wind turbines rely on weather forecasts to predict the maximum amount of power, in megawatt-hours (MWh), they can generate using wind so that they can determine how much they'll need to generate from other sources. When winds are stronger than they were forecast to be, however, the predicted maximum amount of electricity wind turbines could generate will be too low. For example, the graph shows that for the West region, the winds were _______\nWhich choice most effectively uses data from the graph to complete the example?",
-    "answer_choices": [
+    "answerChoices": [
       "strong enough to generate about 150 thousand more MWh of electricity from wind turbines.",
       "so weak that the electricity from wind turbines was about 175 thousand MWh less than predicted.",
       "so weak that the electricity from wind turbines was about 150 thousand MWh less than predicted.",
       "strong enough to generate about 175 thousand more MWh of electricity from wind turbines."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The claim is that when winds are stronger than forecasted, wind turbines can generate more energy than predicted. The supporting graph shows the additional amount (above the predicted amount) that the turbines generated under those conditions, with the West generating about 150 thousand additional MWh.",
       "Choice B is incorrect. This choice doesn't complete the example. The graph shows the additional amount of electricity that the wind turbines generated. The West bar is greater than 0, so the West generated more than the predicted amount. This choice suggests winds were weaker.",
       "Choice C is incorrect. This choice doesn't complete the example. The graph shows the additional amount of electricity that the wind turbines generated. The West bar is greater than 0, so the West generated more than the predicted amount. This choice suggests winds were weaker.",
@@ -425,21 +425,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Easy",
-    "question_id": "01989d77",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "questionId": "01989d77",
+    "imagePath": null,
     "question": "Microbes that live in shallow lakes and ponds produce methane, a harmful greenhouse gas. Ecologist Ralf Aben and his team wanted to see how different types of shallow-water plants might affect the amount of methane that escapes into the atmosphere. Aben's team set up some water tanks with soil and microbes from local ponds. Some tanks had a type of underwater plant that grows in the soil called watermilfoil. Other tanks had either duckweed, a type of plant that floats on the water's surface, or algae. Aben and his team found that tanks with duckweed and algae released higher levels of methane than tanks with watermilfoil did. This finding suggests that _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "the presence of some kinds of underwater plants like watermilfoil helps prevent methane from escaping shallow lakes and ponds.",
       "shallow lakes and ponds release more methane than deeper bodies of water because shallow bodies of water usually have more plants than deep bodies of water do.",
       "shallow lakes and ponds are more likely to contain algae than to contain either watermilfoil or duckweed.",
       "having a mix of algae, underwater plants, and floating plants is the best way to reduce the amount of methane in shallow lakes and ponds."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The passage tells us that \"tanks with duckweed (a floating plant) and algae released higher levels of methane than tanks with watermilfoil (an underwater plant) did.\" This suggests that the presence of some kinds of underwater plants like watermilfoil may help prevent methane from escaping shallow lakes and ponds.",
       "Choice B is incorrect. The passage doesn't mention deeper bodies of water at all, so there's no basis for this inference.",
       "Choice C is incorrect. The passage doesn't compare the likelihood of shallow lakes and ponds containing algae, watermilfoil, or duckweed.",
@@ -450,21 +450,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Easy",
-    "question_id": "8a8236e1",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "questionId": "8a8236e1",
+    "imagePath": null,
     "question": "Scent is tightly interwoven with our daily lives, often evoking significant memories and important social events. This connection is of growing interest to archaeologists who hope to use it to better understand ancient rituals, trade, social hierarchies, and medicine. Although the speed at which odor molecules dissipate makes identifying ancient scents challenging, advancements in biomolecular technologies show promise in unlocking ancient aromas from preserved artifacts. Archaeological studies making use of these advancements may provide new insights into past societies.\nAccording to the text, what is one reason some archaeologists are interested in recovering scents from ancient artifacts?",
-    "answer_choices": [
+    "answerChoices": [
       "They are investigating whether people's sense of smell has declined in recent centuries.",
       "They believe the scents could illuminate important aspects of ancient life.",
       "They think that ancient scents would be enjoyable to people today.",
       "They hope to develop new medicines using ancient scent molecules."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. The text doesn't say anything about investigating if people's sense of smell has declined in recent centuries. It says that scents fade over time—not that people have gotten worse at smelling scents.",
       "Choice B is the best answer. The text states that archaeologists are interested in using scents to better understand \"ancient rituals, trade, social hierarchies, and medicine,\" all of which are important aspects of ancient life.",
       "Choice C is incorrect. The text says that archaeologists are interested in using scents to better understand \"ancient rituals, trade, social hierarchies, and medicine,\" but it doesn't say anything about ancient scents being enjoyable to people today.",
@@ -475,21 +475,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Hard",
-    "question_id": "dd1757fd",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Hard",
+    "questionId": "dd1757fd",
+    "imagePath": null,
     "question": "Neural networks are computer models intended to reflect the organization of human brains and are often used in studies of brain function. According to an analysis of 11,000 such networks, Rylan Schaeffer and colleagues advise caution when drawing conclusions about brains from observations of neural networks. They found that when attempting to mimic grid cells (brain cells used in navigation), while 90% of the networks could accomplish navigation-related tasks, only about 10% of those exhibited any behaviors similar to those of grid cells. _But even this approximation of grid-cell activity has less to do with similarity between the neural networks and biological brains than it does with the rules programmed into the networks._\nWhich finding, if true, would most directly support the claim in the underlined sentence?",
-    "answer_choices": [
+    "answerChoices": [
       "The rules that allow for networks to exhibit behaviors like those of grid cells have no equivalent in the function of biological brains.",
       "The networks that do not exhibit behaviors like those of grid cells were nonetheless programmed with rules that had proven useful in earlier neural-network studies.",
       "Neural networks can often accomplish tasks that biological brains do, but they are typically programmed with rules to model multiple types of brain cells simultaneously.",
       "Once a neural network is programmed, it is trained on certain tasks to see if it can independently arrive at processes that are similar to those performed by biological brains."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. While many networks can perform navigation tasks, or even mimic grid cells, it doesn't mean they're actually behaving like biological brains—this finding suggests that the rules that govern neural network behavior are completely unlike the way real brains work. This directly supports the claim that the approximation of grid-cell activity is more about programmed rules than true similarity to biological brains.",
       "Choice B is incorrect. Although it mentions the rules that are programmed into the networks, this finding wouldn't clarify whether or not these rules have anything to do with the function of biological brains or the claim about the source of similarity.",
       "Choice C is incorrect. This choice suggests that neural networks are modeled after multiple types of brain cells, which sidesteps the question of whether these rule-based networks are genuinely similar to biological brains based on their fundamental operating principles, as the claim implies.",
@@ -500,21 +500,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Easy",
-    "question_id": "4603d1f7",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Easy",
+    "questionId": "4603d1f7",
+    "imagePath": null,
     "question": "In their book Smart Pricing, Jagmohan Raju and Z. John Zhang consider musicians' use of the nontraditional \"pay as you wish\" pricing model. This model generally offers listeners the choice to pay more or less than a suggested price for a song or album—or even to pay nothing at all. As the authors note, that's the option most listeners chose for an album by the band Harvey Danger. Only about 1% opted to pay for the album, resulting in earnings below the band's expectations. But the authors also discuss musician Jane Siberry, who saw significant earnings from her \"pay as you wish\" online music store as a result of many listeners choosing to pay more than the store's suggested prices. Hence, the \"pay as you wish\" model may _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "prove financially successful for some musicians but disappointing for others.",
       "hold greater financial appeal for bands than for individual musicians.",
       "cause most musicians who use the model to lower the suggested prices of their songs and albums over time.",
       "more strongly reflect differences in certain musicians' popularity than traditional pricing models do."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. In one example (Harvey Danger), musicians made less money than expected by using the \"pay as you wish\" model. In the other example (Jane Siberry), a musician made more money than expected. This suggests that some musicians may have more success than others using the \"pay as you wish\" model, making it successful for some and disappointing for others.",
       "Choice B is incorrect. This inference isn't supported. In the examples provided, the individual musician (Jane Siberry) was more successful with the \"pay as you wish\" model than the band (Harvey Danger) was.",
       "Choice C is incorrect. This inference isn't supported. The passage provides no instances in which musicians changed the suggested prices of their songs or albums, nor does it mention this as a possibility.",
@@ -525,21 +525,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Inferences",
-    "Difficulty": "Hard",
-    "question_id": "e185a21f",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Inferences",
+    "difficulty": "Hard",
+    "questionId": "e185a21f",
+    "imagePath": null,
     "question": "One theory behind human bipedalism speculates that it originated in a mostly ground-based ancestor that practiced four-legged \"knuckle-walking,” like chimpanzees and gorillas do today, and eventually evolved into moving upright on two legs. But recently, researchers observed orangutans, another relative of humans, standing on two legs on tree branches and using their arms for balance while they reached for fruits. These observations may suggest that _______\nWhich choice most logically completes the text?",
-    "answer_choices": [
+    "answerChoices": [
       "bipedalism evolved because it was advantageous to a tree-dwelling ancestor of humans.",
       "bipedalism must have evolved simultaneously with knuckle-walking and tree-climbing.",
       "moving between the ground and the trees would have been difficult without bipedalism.",
       "a knuckle-walking human ancestor could have easily moved bipedally in trees."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer because it most logically completes the text's discussion of the evolution of bipedalism in humans. According to the text, one potential explanation for humans walking upright on two legs is that the behavior evolved from an ancestor that mostly stayed on the ground and walked on four limbs, as modern chimpanzees and gorillas do. However, the finding that orangutans, also a relative of humans, sometimes stand on two legs in trees while using their arms to balance and reach for fruits suggests another possible explanation: perhaps a tree-dwelling ancestor of humans began moving on two legs because it offered an advantage, such as access to certain foods.",
       "Choice B is incorrect because the finding that modern orangutans (a relative of humans) sometimes stand on two legs in trees doesn't offer any insight into when either bipedalism or tree-climbing behavior emerged in human ancestors. Additionally, the text indicates that one theory is that bipedalism evolved from a mostly ground-based ancestor that was already practicing knuckle-walking, not that bipedalism and knuckle-walking developed at the same time.",
       "Choice C is incorrect because the finding that orangutans (a relative of humans) sometimes stand on two legs in trees doesn't offer any insight into how difficult it would've been to move between the ground and the trees without bipedalism; there's no suggestion that climbing or moving in trees depends on the ability to walk on two legs rather than four, even if that ability might be helpful in certain circumstances.",
@@ -550,21 +550,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Medium",
-    "question_id": "67b59a67",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "questionId": "67b59a67",
+    "imagePath": null,
     "question": "Plants like potatoes, tomatoes, and soybeans are susceptible to bacterial wilt disease caused by the bacteria Ralstonia solanacearum. A multinational team of scientists led by Zhong Wei studied whether other microbes in the soil might influence the degree to which plants are affected by the disease. The team sampled soil surrounding individual tomato plants over time and compared the results of plants that became diseased with those that remained healthy. They concluded that the presence of certain microbes in the soil might explain the difference between healthy and diseased plants.\nWhich finding, if true, would most directly support the team's conclusion?",
-    "answer_choices": [
+    "answerChoices": [
       "The soil surrounding healthy plants contained significantly higher concentrations of microbes known to inhibit Ralstonia solanacearum than the soil surrounding diseased plants did.",
       "The soil surrounding the plants contained high concentrations of Ralstonia solanacearum regardless of whether the plants were affected by wilt disease.",
       "The soil surrounding healthy plants tended to have significantly higher moisture levels than the soil surrounding diseased plants did.",
       "By the end of the experiment, over half the plants had been affected by wilt disease regardless of differences in the types and concentrations of microbes in the surrounding soil."
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. This choice provides evidence that directly links the presence of R. solanacearum-inhibiting microbes in the soil to the health of tomato plants. If healthy plants have more of these protective microbes, it supports the conclusion that certain microbes explain the difference between healthy and diseased plants.",
       "Choice B is incorrect. This choice would weaken the team's conclusion. It suggests that the presence of the disease-causing bacteria was high in all plants, implying other factors or no microbial influence on disease outcome.",
       "Choice C is incorrect. This choice doesn't support the team's conclusion. The conclusion is about microbes, not soil moisture. While soil moisture could be a factor, it doesn't directly address the role of microbes as stated in the conclusion.",
@@ -575,21 +575,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Central Ideas and Details",
-    "Difficulty": "Easy",
-    "question_id": "c228bd45",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "questionId": "c228bd45",
+    "imagePath": null,
     "question": "The following text is adapted from Edith Nesbit's 1906 novel The Railway Children.\nMother did not spend all her time in paying dull [visits] to dull ladies, and sitting dully at home waiting for dull ladies to pay [visits] to her. She was almost always there, ready to play with the children, and read to them, and help them to do their home-lessons. Besides this she used to write stories for them while they were at school, and read them aloud after tea, and she always made up funny pieces of poetry for their birthdays and for other great occasions.\nAccording to the text, what is true about Mother?",
-    "answer_choices": [
+    "answerChoices": [
       "She wishes that more ladies would visit her.",
       "Birthdays are her favorite special occasion.",
       "She creates stories and poems for her children.",
       "Reading to her children is her favorite activity."
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect because the text suggests that Mother prefers to spend her time with her children and doesn't sit at home hoping that ladies will visit her; in fact, it says she *did not* spend all her time dealing with \"dull ladies.\"",
       "Choice B is incorrect because the text says only that Mother makes up poetry for the children's birthdays, not that she likes birthdays more than other special occasions. It mentions birthdays as one of the \"other great occasions.\"",
       "Choice C is the best answer because it describes something that is true of Mother, as presented in the text. The text indicates that in addition to other activities, Mother writes stories for her children while they are at school and makes up \"funny pieces of poetry\" for certain occasions.",
@@ -600,21 +600,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Information and Ideas",
-    "Skill": "Command of Evidence",
-    "Difficulty": "Medium",
-    "question_id": "7edfb2c5",
-    "image_path": "app/src/main/resources/questions/SAT/static/7edfb2c5.png",
+    "test": "Reading and Writing",
+    "domain": "Information and Ideas",
+    "skill": "Command of Evidence",
+    "difficulty": "Medium",
+    "questionId": "7edfb2c5",
+    "imagePath": "app/src/main/resources/questions/SAT/static/7edfb2c5.png",
     "question": "Flint artifacts dating to 800,000 to 1,000,000 years ago have been recovered from the Evron Quarry in Israel. Likely created by the hominin Homo erectus, the artifacts have no visual features suggesting that they were exposed to fire, leading some scholars to conclude that these hominins had not acquired control of fire. But Zane Stepka and colleagues recently used a new method to determine whether these artifacts had been exposed to temperatures above 400°C (the typical temperature campfires reach) and concluded that the hominins who inhabited the site may have had control of fire.\nWhich choice best describes data in the graph that support the team's conclusion?",
-    "answer_choices": [
+    "answerChoices": [
       "Artifacts K5_106 and K3_9 were exposed to temperatures above 400°C.",
       "Artifacts L5_239 and K3_18 were exposed to temperatures of approximately 550°C and 650°C, respectively.",
       "All of the artifacts were exposed to temperatures above 100°C.",
       "Artifact K3_9 was exposed to a higher temperature than was artifact K5_106."
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. This choice misreads the graph. Artifact K5_106 was exposed to a temperature well below 200°C (around 150°C), and K3_9 was exposed to a temperature around 200°C. Neither is above 400°C.",
       "Choice B is the best answer. The team's conclusion is that hominins may have had control of fire, based on artifacts exposed to temperatures above 400°C. The graph shows L5_239 exposed to approximately 550°C and K3_18 to approximately 650°C. Both these temperatures are above 400°C, supporting the conclusion.",
       "Choice C is incorrect. While true that all artifacts were exposed to temperatures above 100°C, this doesn't directly support the conclusion about control of fire, which is linked to temperatures *above 400°C*.",
@@ -625,21 +625,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "e44db0a0",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "e44db0a0",
+    "imagePath": null,
     "question": "Because a cycle of lunar phases ______ 29.5 days to complete, it's possible to observe two full moons in a single month, one at the beginning and one at the end.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "are taking",
       "have taken",
       "take",
       "takes"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect because the plural verb \"are taking\" doesn't agree in number with the singular subject \"a cycle of lunar phases.\"",
       "Choice B is incorrect because the plural verb \"have taken\" doesn't agree in number with the singular subject \"a cycle of lunar phases.\"",
       "Choice C is incorrect because the plural verb \"take\" doesn't agree in number with the singular subject \"a cycle of lunar phases.\"",
@@ -650,21 +650,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Medium",
-    "question_id": "3ed5ebb4",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "questionId": "3ed5ebb4",
+    "imagePath": null,
     "question": "In her analysis of Edith Wharton's The House of Mirth (1905), scholar Candace Waid observes that the novel depicts the upper classes of New York society as “consumed by the appetite of a soulless ______ an apt assessment given that The House of Mirth is set during the Gilded Age, a period marked by rapid industrialization, economic greed, and widening wealth disparities.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "materialism\"; and",
       "materialism\" and",
       "materialism,\"",
       "materialism\""
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect because a semicolon and the conjunction “and” can't be used in this way to mark the boundary between a main clause and a supplementary noun phrase that renames or explains a preceding noun. A semicolon typically separates two independent clauses.",
       "Choice B is incorrect. Joining the main clause (\"scholar...materialism\") and the following noun phrase with the conjunction “and” results in a confusing and illogical sentence that suggests that the novel depicts the upper classes of New York society as \"an apt assessment,” which doesn't make sense in this context. The phrase \"an apt assessment\" describes Waid's observation.",
       "Choice C is the best answer. The convention being tested is punctuation between a main clause and a supplementary noun phrase (an appositive). This choice correctly uses a comma to mark the boundary between the end of the quotation within the main clause (“...soulless materialism\"”) and the supplementary noun phrase (\"an apt assessment”) that describes Waid's observation.",
@@ -675,21 +675,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "67614549",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "67614549",
+    "imagePath": null,
     "question": "After winning the 1860 presidential election, Abraham Lincoln appointed Edward Bates, Salmon P. Chase, and William H. Seward to his cabinet. Lincoln's decision was surprising, since each of these men had run against him, but historians have praised it, noting that Lincoln ______ his rivals' diverse talents to strengthen his administration.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "has leveraged",
       "is leveraging",
       "will leverage",
       "leveraged"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. This choice creates a tense issue. \"Has leveraged\" is the present perfect tense, which is used for an action that began in the past and continues into the present or has relevance to the present. Lincoln's action of appointing rivals occurred in 1860 and is a completed past event, not ongoing.",
       "Choice B is incorrect. This choice creates a tense issue. \"Is leveraging\" is the present continuous tense, indicating an action happening now. Lincoln leveraged his rivals' talents in 1860, so the present tense isn't appropriate.",
       "Choice C is incorrect. This choice creates a tense issue. \"Will leverage” is the future tense. Lincoln leveraged his rivals' talents in 1860, a past event, so the future tense isn't appropriate.",
@@ -700,21 +700,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "b85c19ed",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "b85c19ed",
+    "imagePath": null,
     "question": "The violins handmade in the seventeenth century by Italian craftsman Antonio Stradivari have been celebrated as some of the finest in the world. In close collaboration with musicians, Stradivari introduced changes to the shape of a traditional violin, flattening some of the instrument's curves and making ______ lighter overall.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "those",
       "one",
       "them",
       "it"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect because the plural pronoun “those” doesn't agree in number with the singular antecedent \"a traditional violin\" (or \"the instrument\").",
       "Choice B is incorrect because the singular pronoun “one” is ambiguous in this context; the resulting sentence leaves unclear what Stradivari made lighter. It refers to an unspecified violin rather than the specific traditional violin being modified.",
       "Choice C is incorrect because the plural pronoun “them” doesn't agree in number with the singular antecedent \"a traditional violin\" (or \"the instrument\"). If it referred to \"curves,\" the sentence structure would be awkward.",
@@ -725,21 +725,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Hard",
-    "question_id": "dfbf5d33",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "questionId": "dfbf5d33",
+    "imagePath": null,
     "question": "In 1453, English King Henry VI became unfit to rule after falling gravely ill. As a result, Parliament appointed Richard, Third Duke of York, who had a strong claim to the English throne, to rule as Lord Protector. Upon recovering two years later, ______ forcing an angered Richard from the royal court and precipitating a series of battles later known as the Wars of the Roses.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "Henry resumed his reign,",
       "the reign of Henry resumed,",
       "Henry's reign resumed,",
       "it was Henry who resumed his reign,"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The convention being tested is subject-modifier placement. This choice ensures that the introductory participial phrase \"Upon recovering two years later\" appears immediately before the noun it logically modifies (\"Henry\"), clearly establishing that Henry recovered two years later and then resumed his reign.",
       "Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase \"the reign of Henry\" immediately after the introductory phrase illogically suggests that the reign of Henry (an abstract concept) recovered two years later, not Henry himself.",
       "Choice C is incorrect because it results in a dangling modifier. The placement of the noun phrase \"Henry's reign\" immediately after the introductory phrase illogically suggests that Henry's reign (an abstract concept) recovered two years later, not Henry himself.",
@@ -750,21 +750,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Hard",
-    "question_id": "c468db1c",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "questionId": "c468db1c",
+    "imagePath": null,
     "question": "A group of ecologists led by Axel Mithöfer at the Max Planck Institute for Chemical Ecology in Germany examined the defensive responses of two varieties of the sweet potato ______ TN57, which is known for its insect resistance, and TN66, which is much more susceptible to pests.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "plant.",
       "plant;",
       "plant",
       "plant:"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"TN57.” A period creates a full stop, but the following information directly elaborates on the \"two varieties of the sweet potato plant.\"",
       "Choice B is incorrect because a semicolon can't be used in this way to join the main clause (\"A group...plant\") and the supplementary element listing the varieties (\"TN57...pests”). A semicolon is conventionally used to join two closely related independent clauses.",
       "Choice C is incorrect because it fails to mark the boundary between the main clause (\"A group...plant\") and the supplementary element with appropriate punctuation, creating a run-on sentence or an improperly integrated list.",
@@ -775,21 +775,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Easy",
-    "question_id": "ec08463d",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "questionId": "ec08463d",
+    "imagePath": null,
     "question": "Botanists recognize over fifty different species of sunflower. One species, the silverleaf sunflower, ______ both an early-flowering ecotype that tends to grow in coastal areas and a late-flowering ecotype that grows inland.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "having included",
       "including",
       "to include",
       "includes"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. This doesn't complete the text in a way that conforms to the conventions of Standard English. This verb needs to function as the main verb in the sentence for the subject \"One species...sunflower,\" so it needs to be conjugated. \"Having included\" is a perfect participle form of the verb: it's not conjugated and doesn't function as the main verb of a clause.",
       "Choice B is incorrect. This doesn't complete the text in a way that conforms to the conventions of Standard English. This verb needs to function as the main verb in the sentence for the subject \"One species...sunflower,\" so it needs to be conjugated. \"Including\" is the present participle/gerund form of the verb: it's not conjugated and doesn't function as the main verb of a clause without an auxiliary verb.",
       "Choice C is incorrect. This doesn't complete the text in a way that conforms to the conventions of Standard English. This verb needs to function as the main verb in the sentence for the subject \"One species...sunflower,\" so it needs to be conjugated. \"To include\" is the infinitive form of the verb: it's not conjugated.",
@@ -800,21 +800,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Easy",
-    "question_id": "4a90a978",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "questionId": "4a90a978",
+    "imagePath": null,
     "question": "In 1990, California native and researcher Ellen Ochoa left her position as chief of the Intelligent Systems Technology Branch at a NASA research center ______ the space agency's astronaut training program.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "to join",
       "is joining",
       "joined",
       "joins"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The convention being tested is the use of nonfinite verb forms (infinitives) to express purpose. The nonfinite to-infinitive verb \"to join\" is correctly used to form a subordinate clause that expresses why Ochoa left her position (her purpose was to join the training program).",
       "Choice B is incorrect because the finite verb phrase \"is joining\" (present continuous) can't be used in this way to indicate Ochoa's purpose for leaving her position in the past. It would require a conjunction like \"and\" to link it to the previous clause as a separate action, which changes the meaning.",
       "Choice C is incorrect because the finite verb \"joined\" (simple past) can't be used in this way to indicate Ochoa's purpose. It would typically require a conjunction like \"and\" to link it as a sequential action, not the reason for the first action.",
@@ -825,21 +825,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Medium",
-    "question_id": "a427a52c",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "questionId": "a427a52c",
+    "imagePath": null,
     "question": "The Lion Light system, developed by Kenyan inventor Richard Turere, consists of LED lights installed around the perimeter of livestock pastures. Powered with ______ the blinking LEDs keep lions away at night, thus protecting the livestock without risking harm to the endangered lions.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "energy collected, by solar panels, during the day",
       "energy collected by solar panels during the day",
       "energy collected by solar panels during the day,",
       "energy, collected by solar panels during the day,"
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect because it fails to mark the boundary between the introductory participial phrase (modifying \"LEDs\" or the action of powering) and the main clause with appropriate punctuation at the end of the phrase. Furthermore, placing commas around the phrase \"by solar panels\" unnecessarily interrupts the flow of the modifier \"energy collected by solar panels during the day.\"",
       "Choice B is incorrect because it fails to mark the boundary between the introductory participial phrase (modifying \"LEDs\" or the action of powering) and the main clause with appropriate punctuation (a comma after \"day\").",
       "Choice C is the best answer. The convention being tested is punctuation between a supplementary phrase (here, an introductory participial phrase describing how the LEDs are powered) and a main clause. This choice correctly uses a comma after \"day\" to mark the boundary between the introductory phrase (\"Powered with energy collected by solar panels during the day\") and the main clause (“the blinking LEDs keep lions away at night...”).",
@@ -850,21 +850,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Medium",
-    "question_id": "fe41f258",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Medium",
+    "questionId": "fe41f258",
+    "imagePath": null,
     "question": "In ancient Greece, an Epicurean was a follower of Epicurus, a philosopher whose beliefs revolved around the pursuit of pleasure. Epicurus defined pleasure as \"the absence of pain in the body and of trouble in the ______ that all life's virtues derived from this absence.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "soul,\" positing",
       "soul\": positing",
       "soul\"; positing",
       "soul.\" Positing"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The convention being tested is punctuation use between a main clause (ending with a quotation) and a participial phrase that modifies the subject of the main clause. This choice correctly uses a comma after the quotation ending with \"soul\" to mark the boundary between the main clause (\"Epicurus defined pleasure as 'the absence of pain in the body and of trouble in the soul,'\") and the participial phrase (\"positing that all life's virtues derived from this absence”) that provides additional information about Epicurus's definition or action.",
       "Choice B is incorrect because a colon can't be used in this way to join a main clause and a participial phrase. A colon is typically used to introduce a list, explanation, or quotation, usually after an independent clause.",
       "Choice C is incorrect because a semicolon can't be used in this way to join a main clause and a participial phrase. A semicolon typically joins two independent clauses.",
@@ -875,21 +875,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "0bcb4417",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "0bcb4417",
+    "imagePath": null,
     "question": "Oglala Lakota poet Layli Long Soldier's star quilt poems offer an unusually open-ended reading experience. With ______ eight panels of text stitched together in the shape of a traditional eight-pointed Lakota star quilt, the poems present viewers with a seemingly infinite number of ways to read them.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "their",
       "it's",
       "they're",
       "its"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The convention being tested is the use of possessive determiners. The sentence describes the poems and their panels. The plural possessive determiner \"their\" agrees in number with the plural noun \"the poems\" (mentioned later in the clause as the subject: \"the poems present viewers...\"), thus indicating that the poems had eight panels of text.",
       "Choice B is incorrect because \"it's\" is the contraction for \"it is\" or \"it has,\" not a possessive determiner. The context requires a possessive to describe whose panels.",
       "Choice C is incorrect because \"they're\" is the contraction for \"they are,\" not a possessive determiner. The context requires a possessive.",
@@ -900,21 +900,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Easy",
-    "question_id": "603755a5",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "questionId": "603755a5",
+    "imagePath": null,
     "question": "In 1959, marine biologist Dr. Albert Jones founded the Underwater Adventure Seekers, a scuba diving ______ that is the oldest club for Black divers in the United States and that has helped thousands of diving enthusiasts become certified in the field.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "club",
       "club,",
       "club—",
       "club, and"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The phrase \"that is the oldest club...field\" is an essential relative clause modifying \"scuba diving club.\" Essential clauses are not set off by punctuation.",
       "Choice B is incorrect. This choice creates a punctuation error. The relative clause \"that is...field\" is essential to identify which scuba diving club is being referred to; therefore, it should not be set off by a comma.",
       "Choice C is incorrect. This choice creates a punctuation error. The relative clause \"that is...field\" is essential and should not be set off by a dash.",
@@ -925,21 +925,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Easy",
-    "question_id": "1f39ab8b",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "questionId": "1f39ab8b",
+    "imagePath": null,
     "question": "In the novel Things Fall Apart by Chinua Achebe, Okonkwo is a leader of Umuofia (a fictional Nigerian clan) and takes pride in his culture's traditions. However, when the arrival of European missionaries brings changes to Umuofia, the novel asks a central question: How ______\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "Umuofia's traditions will be affected.",
       "will Umuofia's traditions be affected.",
       "Umuofia's traditions will be affected?",
       "will Umuofia's traditions be affected?"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. This choice ends the sentence with a period, which isn't right for a question. Also, standard question word order (verb before subject) is missing.",
       "Choice B is incorrect. This choice ends the sentence with a period, which isn't right. The clause before the colon tells us that the novel \"asks a question,\" so the clause after the colon should be that question, ending with a question mark.",
       "Choice C is incorrect. This choice doesn't conform to the conventions of Standard English for question formation. In Standard English, direct questions typically place the auxiliary verb (will) before the subject (Umuofia's traditions).",
@@ -950,21 +950,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Hard",
-    "question_id": "594b4a94",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "questionId": "594b4a94",
+    "imagePath": null,
     "question": "The field of geological oceanography owes much to American ______ Marie Tharp, a pioneering oceanographic cartographer whose detailed topographical maps of the ocean floor and its multiple rift valleys helped garner acceptance for the theories of plate tectonics and continental drift.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "geologist,",
       "geologist",
       "geologist;",
       "geologist:"
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. This choice creates a punctuation error. \"Marie Tharp\" is an essential appositive that specifies which American geologist is being referred to. Essential appositives should not be set off by commas.",
       "Choice B is the best answer. The name \"Marie Tharp\" is essential information that completes the phrase \"American geologist\" by identifying which geologist is being discussed. Essential appositives are not set off by punctuation from the noun they modify or identify.",
       "Choice C is incorrect. This choice creates a punctuation error. A semicolon is used to separate independent clauses or items in a complex list; it cannot be used to set off an essential appositive.",
@@ -975,21 +975,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Easy",
-    "question_id": "b1e8b87f",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "questionId": "b1e8b87f",
+    "imagePath": null,
     "question": "Winding through the ice atop Norway's Jotunheim Mountains is the Lendbreen pass, an ancient route that was used by hunters, farmers, traders, and travelers in the Middle Ages before eventually falling into disuse. Recently, archeologists have ______ knives, horseshoes, wool tunics, and thousands of other artifacts from the icy pass.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "unearthed:",
       "unearthed,",
       "unearthed—",
       "unearthed"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. This choice creates a punctuation error. A colon is not used to separate a verb from its direct objects when those objects immediately follow the verb in a simple list.",
       "Choice B is incorrect. This choice creates a punctuation error. A comma is not used to separate a verb from its direct objects when those objects immediately follow the verb, unless it's setting off a nonessential element or part of a more complex structure not present here.",
       "Choice C is incorrect. This choice creates a punctuation error. A dash is not typically used to separate a verb from its direct objects in this context. Dashes are used for emphasis or to set off parenthetical information.",
@@ -1000,21 +1000,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Easy",
-    "question_id": "1d971f75",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "questionId": "1d971f75",
+    "imagePath": null,
     "question": "Photographer Ansel Adams's landscape portraits are iconic pieces of American art. However, many of the ______ of landscapes were intended not as art but as marketing; a concessions company at Yosemite National Park had hired Adams to take pictures of the park for restaurant menus and brochures.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "photographer's early photo's",
       "photographers early photo's",
       "photographer's early photos",
       "photographers early photos"
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect. This choice uses the incorrect plural possessive \"photo's.\" \"Photo's\" would mean something belonging to a single photo, or it's a typo for the plural \"photos.\" The context requires the simple plural \"photos.\"",
       "Choice B is incorrect. This choice uses the plural \"photographers,\" but the sentence refers to a single photographer, Ansel Adams. It also uses the incorrect plural possessive \"photo's.\"",
       "Choice C is the best answer. There's only one photographer (Ansel Adams), so the singular possessive \"photographer's\" is correct. There's more than one photo being referred to (his early photos), and nothing belongs to these photos in this context, so the simple plural \"photos\" is correct.",
@@ -1025,21 +1025,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "c52652c9",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "c52652c9",
+    "imagePath": null,
     "question": "The human brain is primed to recognize faces—so much so that, due to a perceptual tendency called pareidolia, ______ will even find faces in clouds, wooden doors, pieces of fruit, and other faceless inanimate objects. Researcher Susan Magsamen has focused her work on better understanding this everyday phenomenon.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "she",
       "they",
       "it",
       "those"
     ],
-    "correct_answer": 2,
-    "answer_explanations": [
+    "correctAnswer": 2,
+    "answerExplanations": [
       "Choice A is incorrect. Although \"she\" is a singular pronoun, it is reserved for people and animals, not objects or abstract concepts like \"the human brain.\"",
       "Choice B is incorrect. \"They\" is a plural pronoun, but we need a singular pronoun to represent the singular antecedent \"the human brain.\"",
       "Choice C is the best answer. \"It\" is a singular pronoun used to stand in for objects or concepts. Since the antecedent in this case is the singular noun phrase \"the human brain,\" the singular pronoun \"it\" is the correct choice to refer back to the brain.",
@@ -1050,21 +1050,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "36944347",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "36944347",
+    "imagePath": null,
     "question": "Official measurements of the Mississippi River's length vary: according to the US Geologic Survey, the river is 2,300 miles long, whereas the Environmental Protection Agency records its length as 2,320 miles. This disparity can be explained in part by the fact that rivers such as the Mississippi expand and contract as ______ sediment.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "they accumulate",
       "one accumulates",
       "it accumulates",
       "we accumulate"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The noun that goes with \"expand and contract\" is \"rivers\" (such as the Mississippi), which is a plural noun. \"They\" is a third-person plural pronoun, so it can correctly stand in for \"rivers\" and agrees with the plural verb form \"accumulate.\"",
       "Choice B is incorrect. This choice creates a pronoun-antecedent agreement error. \"One\" is a singular pronoun, but the noun that goes with \"expand and contract\" is \"rivers,\" a plural noun.",
       "Choice C is incorrect. This choice creates a pronoun-antecedent agreement error. \"It\" is a singular pronoun, but the noun that goes with \"expand and contract\" is \"rivers,\" a plural noun.",
@@ -1075,21 +1075,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Easy",
-    "question_id": "fff4c7f4",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Easy",
+    "questionId": "fff4c7f4",
+    "imagePath": null,
     "question": "American poet Emily Dickinson wrote many of her poems on scraps of paper, but she also took steps to collect these works. From 1858 to around 1864, for example, she copied more than 800 of ______ into forty homemade booklets (known as fascicles).\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "them",
       "this",
       "that",
       "it"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The pronoun needs to refer to \"many of her poems\" and \"these works,\" both of which are plural concepts. The plural pronoun \"them\" correctly agrees with these plural antecedents.",
       "Choice B is incorrect. \"This\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural.",
       "Choice C is incorrect. \"That\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural.",
@@ -1100,21 +1100,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Medium",
-    "question_id": "8d53e7a0",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "questionId": "8d53e7a0",
+    "imagePath": null,
     "question": "Slam poet Elizabeth Acevedo's debut novel The Poet X, winner of the 2018 National Book Award for Young People's Literature, is composed of ______ protagonist, fifteen-year-old Xiomara Batista.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "poems putatively written by the novel's",
       "poem's putatively written by the novel's",
       "poem's putatively written by the novels'",
       "poems putatively written by the novels'"
     ],
-    "correct_answer": 0,
-    "answer_explanations": [
+    "correctAnswer": 0,
+    "answerExplanations": [
       "Choice A is the best answer. The novel is composed of multiple \"poems\" (plural, non-possessive). These poems are putatively written by the novel's protagonist; the protagonist belongs to the single \"novel\" (singular possessive \"novel's\").",
       "Choice B is incorrect. This doesn't complete the text in a way that conforms to the conventions of Standard English. This choice uses the singular possessive \"poem's,” but the text implies the novel is composed of multiple poems, and these poems don't possess anything in this context; it should be the simple plural \"poems.\"",
       "Choice C is incorrect. This doesn't complete the text in a way that conforms to the conventions of Standard English. This choice uses the singular possessive \"poem's” (should be plural \"poems\") and the plural possessive “novels’,” which is incorrect because there is only one novel, The Poet X.",
@@ -1125,21 +1125,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Hard",
-    "question_id": "b15724fc",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Hard",
+    "questionId": "b15724fc",
+    "imagePath": null,
     "question": "American writer Edwidge Danticat, who emigrated from Haiti in 1981, has won acclaim for her powerful short stories, novels, and ______ her lyrical yet unflinching depictions of her native country's turbulent history, writer Robert Antoni has compared Danticat to Nobel Prize–winning novelist Toni Morrison.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "essays, praising",
       "essays and praising",
       "essays praising",
       "essays. Praising"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect because it results in a comma splice. A comma alone cannot correctly join two independent clauses (\"American writer...essays\" and \"praising...Morrison\" if \"praising\" were to start a new clause with an implied subject). The phrase starting with \"praising\" is a participial phrase modifying \"writer Robert Antoni.\"",
       "Choice B is incorrect. Without a comma preceding it, the conjunction \"and\" can't be used in this way to join two sentences or an independent clause with a participial phrase that modifies the subject of a new implied sentence. If \"and praising\" were to link to the first sentence, it would imply Danticat is praising, which is not the meaning.",
       "Choice C is incorrect because it results in a run-on sentence if \"praising\" is meant to start a new conceptual thought related to Robert Antoni. The first part is a complete sentence ending with \"essays.\" The phrase \"praising...\" then modifies Robert Antoni in the next logical sentence, and it needs proper separation.",
@@ -1150,21 +1150,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Hard",
-    "question_id": "de3dd17d",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "questionId": "de3dd17d",
+    "imagePath": null,
     "question": "Planetary scientist Briony Horgan and her colleagues have determined that as much as 25 percent of the sand on Mars is composed of impact spherules. These spherical bits of glass form when asteroids collide with the planet, ejecting bits of molten rock into the atmosphere that, after cooling and solidifying into glass, ______ back onto Mars's surface.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "to rain",
       "raining",
       "having rained",
       "rain"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. \"To rain\" is an infinitive and can't serve as the main verb of the relative clause \"that...back onto Mars's surface.\" A conjugated verb is needed to agree with the subject \"that\" (referring to \"bits of molten rock\").",
       "Choice B is incorrect. \"Raining\" is a present participle and, on its own, can't serve as the main verb of a clause. It would require an auxiliary verb (e.g., \"are raining\") to function as a main verb.",
       "Choice C is incorrect. \"Having rained\" is a perfect participle and can't serve as the main verb of a clause on its own. It typically introduces a participial phrase.",
@@ -1175,21 +1175,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Form, Structure, and Sense",
-    "Difficulty": "Hard",
-    "question_id": "5b8f9cf2",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Form, Structure, and Sense",
+    "difficulty": "Hard",
+    "questionId": "5b8f9cf2",
+    "imagePath": null,
     "question": "In the canon of North African literature, Moroccan author Driss Chraïbi's 1954 novel The Simple Past (Le Passé simple) looms large. A coming-of-age story, a social meditation, and a sober gaze into the dark maw of French colonialism, ______ interrogates systemic power with memorable intensity.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "Morocco gained its independence two years before the publication of Chraïbi's debut novel, which",
       "Chraïbi's debut novel, published two years before Morocco gained its independence,",
       "Chraïbi wrote a debut novel that, published two years before Morocco gained its independence,",
       "published two years before Morocco gained its independence, Chraïbi wrote a debut novel that"
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. Modifiers and their subjects must go next to each other. The introductory modifying phrase \"A coming-of-age story, a social meditation, and a sober gaze into the dark maw of French colonialism\" describes Chraïbi's novel, The Simple Past, not Morocco. This choice incorrectly places \"Morocco\" immediately after the modifier.",
       "Choice B is the best answer. Subject-modifier placement requires a modifier and its subject to be next to each other. The introductory modifying phrase \"A coming-of-age story, a social meditation, and a sober gaze into the dark maw of French colonialism\" describes Driss Chraïbi's 1954 novel The Simple Past. The subject that follows this phrase should be the novel. \"Chraïbi's debut novel\" (which is The Simple Past) fits perfectly as the subject being described by the introductory phrase. The appositive phrase \"published two years before Morocco gained its independence\" then correctly modifies \"Chraïbi's debut novel.\"",
       "Choice C is incorrect. Modifiers and their subjects must go next to each other. The introductory modifying phrase describes Chraïbi's novel, not Chraïbi himself. This choice incorrectly places \"Chraïbi wrote a debut novel that\" immediately after the modifier, making it seem like Chraïbi himself is the coming-of-age story.",
@@ -1200,21 +1200,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Easy",
-    "question_id": "c21df211",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "questionId": "c21df211",
+    "imagePath": null,
     "question": "In 1959, the film industry debuted Smell-O-Vision. Theaters were fitted with specialized vents that emitted odors at specific points in a ______ as the scent of roses when roses appeared in a scene. Smell-O-Vision failed to impress, however, with one reviewer declaring it \"briefly weird and not very interesting.\"\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "movie such",
       "movie; such",
       "movie. Such",
       "movie, such"
     ],
-    "correct_answer": 3,
-    "answer_explanations": [
+    "correctAnswer": 3,
+    "answerExplanations": [
       "Choice A is incorrect. This choice results in a run-on sentence. The descriptive phrase starting with \"such as\" needs to be set off from the preceding independent clause (\"Theaters were fitted...in a movie\") with punctuation.",
       "Choice B is incorrect. This choice creates a punctuation error. A semicolon is used to separate two independent clauses, but \"such as the scent of roses when roses appeared in a scene\" is not an independent clause and couldn't stand on its own as a sentence.",
       "Choice C is incorrect. This choice results in a sentence fragment. The phrase \"Such as the scent of roses when roses appeared in a scene\" is not an independent clause and cannot stand on its own as a sentence introduced by a period.",
@@ -1225,21 +1225,21 @@
     ]
   },
   {
-    "Test": "Reading and Writing",
-    "Domain": "Standard English Conventions",
-    "Skill": "Boundaries",
-    "Difficulty": "Easy",
-    "question_id": "ea8f4658",
-    "image_path": null,
+    "test": "Reading and Writing",
+    "domain": "Standard English Conventions",
+    "skill": "Boundaries",
+    "difficulty": "Easy",
+    "questionId": "ea8f4658",
+    "imagePath": null,
     "question": "When particles are suspended in liquid (like pollen in a water glass), they will zigzag randomly through the liquid and collide with one another in perpetuity. This type of random, continuous ______ is known as Brownian motion, can be observed throughout the natural world.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
-    "answer_choices": [
+    "answerChoices": [
       "movement: which",
       "movement, which",
       "movement which",
       "movement. Which"
     ],
-    "correct_answer": 1,
-    "answer_explanations": [
+    "correctAnswer": 1,
+    "answerExplanations": [
       "Choice A is incorrect. This choice results in a punctuation error. A colon is not appropriate here. The clause \"which is known as Brownian motion\" is a nonessential relative clause modifying \"movement.\" Colons are typically used after an independent clause to introduce a list, explanation, or quotation, not to set off a nonessential relative clause in this manner.",
       "Choice B is the best answer. This choice correctly uses a comma to set off the nonessential relative clause \"which is known as Brownian motion.\" This clause provides additional information about \"This type of random, continuous movement\" but is not essential to the grammatical completeness or core meaning of the sentence. The full nonessential phrase is \"which is known as Brownian motion, can be observed throughout the natural world,\" and it is set off by commas from \"movement.\"",
       "Choice C is incorrect. This choice results in a punctuation error. The relative clause \"which is known as Brownian motion\" is nonessential here (as indicated by the comma after \"motion\" in the original sentence structure, implying the entire modifying phrase should be set off). A nonessential relative clause must be set off by punctuation, typically commas, from the noun it modifies. This choice is missing the comma before \"which.\"",
