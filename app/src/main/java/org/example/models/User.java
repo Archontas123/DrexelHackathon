@@ -1,4 +1,4 @@
-/* package    org.example.models;
+package    org.example.models;
 
 //written by AI
 
@@ -59,4 +59,3 @@ public class User {
                 '}';
     }
 }
- */

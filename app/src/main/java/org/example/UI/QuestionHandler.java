@@ -3,7 +3,14 @@ package org.example.UI;
 import org.example.UI.CardComponents.QuestionCard;
 import org.example.models.Question;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
 import java.awt.Color;
+import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.Type;
+import java.util.List;
 
 public class QuestionHandler {
     private boolean hintVisible = false;
@@ -12,15 +19,26 @@ public class QuestionHandler {
     public QuestionHandler() {
     }
 
-    public boolean isCorrectAnswer(Question question, String selectedAnswerText) {
-        if (selectedAnswerText == null || question == null || question.getAnswerChoices() == null) {
-            return false;
+    public static List<Question> loadQuestions(String jsonFilePath) {
+        try (FileReader reader = new FileReader(jsonFilePath)) {
+            Gson gson = new Gson();
+            Type questionListType = new TypeToken<List<Question>>() {}.getType();
+            return gson.fromJson(reader, questionListType);
+        } catch (IOException e) {
+            System.err.println("Failed to load questions: " + e.getMessage());
+            return null;
         }
+    }
+
+    public boolean isCorrectAnswer(Question question, String selectedAnswerText) {
+      /*   if (selectedAnswerText == null || question == null || question.getAnswerChoices() == null) {
+            return false;
+        } */
         int correctAnswerIndex = question.getCorrectAnswer();
-        if (correctAnswerIndex < 0 || correctAnswerIndex >= question.getAnswerChoices().length) {
+        if (correctAnswerIndex < 0 || correctAnswerIndex >= question.getAnswerChoices().size()) {
             return false; 
         }
-        return selectedAnswerText.equals(question.getAnswerChoices()[correctAnswerIndex]);
+        return selectedAnswerText.equals(question.getAnswerChoices().get(correctAnswerIndex));
     }
 
     public void handleHintToggle(QuestionCard card, Question question) {
@@ -28,9 +46,9 @@ public class QuestionHandler {
         if (hintVisible) {
             String hintText = "Placeholder hint."; 
             if (question != null) {
-                String[] hints = question.getHints();
-                if (hints != null && hints.length > 0) {
-                    hintText = hints[0]; 
+                List<String> hints = question.getHints();
+                if (hints != null && hints.size() > 0) {
+                    hintText = hints.get(0); 
                 }
 
 
@@ -54,8 +72,8 @@ public class QuestionHandler {
         boolean isCorrect = isCorrectAnswer(question, selectedAnswerActionCommand);
         String explanationText;
         String correctAnswerFullText = "";
-        if (question != null && question.getAnswerChoices() != null && question.getAnswerIndex() >= 0 && question.getAnswerIndex() < question.getAnswerChoices().length) {
-            correctAnswerFullText = question.getAnswerChoices()[question.getAnswerIndex()];
+        if (question != null && question.getAnswerChoices() != null && question.getCorrectAnswer() >= 0 && question.getCorrectAnswer() < question.getAnswerChoices().size()) {
+            correctAnswerFullText = question.getAnswerChoices().get(question.getCorrectAnswer());
         }
 
 
