@@ -16,7 +16,7 @@ public class QuestionHandler {
         if (selectedAnswerText == null || question == null || question.getAnswerChoices() == null) {
             return false;
         }
-        int correctAnswerIndex = question.getAnswerIndex();
+        int correctAnswerIndex = question.getCorrectAnswer();
         if (correctAnswerIndex < 0 || correctAnswerIndex >= question.getAnswerChoices().length) {
             return false; 
         }

@@ -88,14 +88,13 @@ public class QuestionCard extends RoundedPanel {
 
         JPanel header = new JPanel(new BorderLayout());
         header.setOpaque(false);
-        JLabel titleLabel = new JLabel(this.currentQuestion.getQuestionName()); 
+        JLabel titleLabel = new JLabel(this.currentQuestion.getQuestionId()); 
         titleLabel.setFont(titleLabel.getFont().deriveFont(Font.BOLD, 16f));
         header.add(titleLabel, BorderLayout.WEST);
         JPanel tagPanel = new JPanel(new FlowLayout(FlowLayout.RIGHT, 5, 0));
         tagPanel.setOpaque(false);
-        for (String t : this.currentQuestion.getSubtopic()) { 
-            tagPanel.add(createBadge(t, accentColor));
-        }
+        tagPanel.add(createBadge(this.currentQuestion.getSkill(), accentColor));
+        
         header.add(tagPanel, BorderLayout.EAST);
         questionDisplayPanel.add(header);
         questionDisplayPanel.add(Box.createVerticalStrut(15));
@@ -104,7 +103,7 @@ public class QuestionCard extends RoundedPanel {
         content.setLayout(new BoxLayout(content, BoxLayout.X_AXIS));
         content.setOpaque(false);
         content.setAlignmentX(Component.LEFT_ALIGNMENT);
-        JLabel imgPlaceholder = new JLabel(this.currentQuestion.getImage() != null && !this.currentQuestion.getImage().isEmpty() ? this.currentQuestion.getImage() : "Image Placeholder", SwingConstants.CENTER);
+        JLabel imgPlaceholder = new JLabel(this.currentQuestion.getImagePath() != null && !this.currentQuestion.getImagePath().isEmpty() ? this.currentQuestion.getImagePath() : "Image Placeholder", SwingConstants.CENTER);
         Dimension imgDim = new Dimension(180, 180);
         imgPlaceholder.setPreferredSize(imgDim);
         imgPlaceholder.setMinimumSize(imgDim);
