@@ -49,10 +49,10 @@ public class QuestionCard extends RoundedPanel {
         setAlignmentX(Component.CENTER_ALIGNMENT);
         setMaximumSize(new Dimension(780, Short.MAX_VALUE));
 
-        JPanel questionDisplayPanel = createQuestionDisplayPanel(accentColor);
+        JScrollPane questionDisplayScrollPane = createQuestionDisplayScrollPane(accentColor);
         JPanel feedbackViewPanel = createFeedbackViewPanel(accentColor);
 
-        add(questionDisplayPanel, QUESTION_VIEW_CARD);
+        add(questionDisplayScrollPane, QUESTION_VIEW_CARD);
         add(feedbackViewPanel, FEEDBACK_VIEW_CARD);
 
         setupActionListeners(accentColor);
@@ -81,7 +81,7 @@ public class QuestionCard extends RoundedPanel {
         return badgePanel;
     }
 
-    private JPanel createQuestionDisplayPanel(Color accentColor) {
+    private JScrollPane createQuestionDisplayScrollPane(Color accentColor) {
         JPanel questionDisplayPanel = new JPanel();
         questionDisplayPanel.setLayout(new BoxLayout(questionDisplayPanel, BoxLayout.Y_AXIS));
         questionDisplayPanel.setOpaque(false);
@@ -106,16 +106,25 @@ public class QuestionCard extends RoundedPanel {
         content.setAlignmentX(Component.LEFT_ALIGNMENT);
 
         if (this.currentQuestion.getImagePath() != null && !this.currentQuestion.getImagePath().isEmpty()) {
-            String imageResourcePath = "/questions/" + this.currentQuestion.getTest() + "/static/" + this.currentQuestion.getImagePath();
+            String rawImagePath = currentQuestion.getImagePath();
+            String imageResourcePath = rawImagePath;
+            if (rawImagePath.startsWith("app/src/main/resources")) {
+                imageResourcePath = rawImagePath.substring("app/src/main/resources".length());
+            }
+            if (!imageResourcePath.startsWith("/")) {
+                imageResourcePath = "/" + imageResourcePath;
+            }
+            
             URL imageURL = getClass().getResource(imageResourcePath);
-            JLabel imgLabel = new JLabel();
-            imgLabel.setHorizontalAlignment(SwingConstants.CENTER);
-            Dimension imgDim = new Dimension(180, 180);
-            imgLabel.setPreferredSize(imgDim);
-            imgLabel.setMinimumSize(imgDim);
-            imgLabel.setMaximumSize(imgDim);
 
             if (imageURL != null) {
+                JLabel imgLabel = new JLabel();
+                imgLabel.setHorizontalAlignment(SwingConstants.CENTER);
+                Dimension imgDim = new Dimension(180, 180);
+                imgLabel.setPreferredSize(imgDim);
+                imgLabel.setMinimumSize(imgDim);
+                imgLabel.setMaximumSize(imgDim);
+
                 ImageIcon originalIcon = new ImageIcon(imageURL);
                 Image originalImage = originalIcon.getImage();
                 
@@ -135,14 +144,9 @@ public class QuestionCard extends RoundedPanel {
                 
                 Image scaledImage = originalImage.getScaledInstance(newWidth, newHeight, Image.SCALE_SMOOTH);
                 imgLabel.setIcon(new ImageIcon(scaledImage));
-            } else {
-                imgLabel.setText("Image not found");
-                imgLabel.setOpaque(true);
-                imgLabel.setBackground(new Color(0xFFF0F0));
-                imgLabel.setBorder(BorderFactory.createDashedBorder(accentColor, 2, 7, 3, true));
+                content.add(imgLabel);
+                content.add(Box.createHorizontalStrut(20));
             }
-            content.add(imgLabel);
-            content.add(Box.createHorizontalStrut(20));
         }
 
         JTextArea qText = new JTextArea(this.currentQuestion.getQuestion());
@@ -156,7 +160,8 @@ public class QuestionCard extends RoundedPanel {
         questionDisplayPanel.add(content);
         questionDisplayPanel.add(Box.createVerticalStrut(25));
 
-        answersPanel = new JPanel(new GridLayout(2, 2, 15, 15));
+        answersPanel = new JPanel();
+        answersPanel.setLayout(new BoxLayout(answersPanel, BoxLayout.Y_AXIS));
         answersPanel.setOpaque(false);
         answersPanel.setAlignmentX(Component.LEFT_ALIGNMENT);
         answerGroup = new ButtonGroup();
@@ -167,12 +172,13 @@ public class QuestionCard extends RoundedPanel {
         System.out.println("Answer choices: " + this.currentQuestion.getAnswerChoices());
         System.out.println(this.currentQuestion);
         for (String choice : this.currentQuestion.getAnswerChoices()) { 
-            JRadioButton rb = new JRadioButton(choice);
+            JRadioButton rb = new JRadioButton("<html><div style='width: 550px;'>" + choice + "</div></html>");
             rb.setForeground(Color.BLACK);
             rb.setActionCommand(choice);
 
             HoverAnimatedRoundedPanel rbPanel = new HoverAnimatedRoundedPanel(new BorderLayout(), 15, normalAnswerPanelBg);
             rbPanel.setBorder(normalAnswerBorder);
+            rbPanel.setAlignmentX(Component.LEFT_ALIGNMENT); 
             
             rb.setHorizontalAlignment(SwingConstants.LEFT);
             rb.setOpaque(false);
@@ -183,6 +189,7 @@ public class QuestionCard extends RoundedPanel {
             rb.setFont(rb.getFont().deriveFont(15f));
             answerGroup.add(rb);
             answersPanel.add(rbPanel);
+            answersPanel.add(Box.createVerticalStrut(10)); 
 
             rb.addItemListener(e -> {
                 for (Component comp : answersPanel.getComponents()) {
@@ -224,7 +231,14 @@ public class QuestionCard extends RoundedPanel {
         dyn.add(hintLabel);
         questionDisplayPanel.add(dyn);
 
-        return questionDisplayPanel;
+        JScrollPane scrollPane = new JScrollPane(questionDisplayPanel);
+        scrollPane.setBorder(BorderFactory.createEmptyBorder());
+        scrollPane.setOpaque(false);
+        scrollPane.getViewport().setOpaque(false);
+        scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
+        scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+        
+        return scrollPane;
     }
 
     public static JLabel createInfoLabel(Color accentColor) {
@@ -350,7 +364,7 @@ public class QuestionCard extends RoundedPanel {
     }
 
     public void displayHintText(String text) {
-        hintLabel.setText("Hint: " + text);
+        hintLabel.setText("<html><div style='width:680px;'>Hint: " + text.replace("\n", "<br>") + "</div></html>");
     }
 
     public void setHintButtonText(String text) {

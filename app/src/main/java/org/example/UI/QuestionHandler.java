@@ -13,7 +13,7 @@ import java.lang.reflect.Type;
 import java.util.List;
 
 public class QuestionHandler {
-    private boolean hintVisible = false;
+    private int currentHintIndex = -1;
     private boolean explanationVisible = false;
 
     public QuestionHandler() {
@@ -42,23 +42,30 @@ public class QuestionHandler {
     }
 
     public void handleHintToggle(QuestionCard card, Question question) {
-        hintVisible = !hintVisible;
-        if (hintVisible) {
-            String hintText = "Placeholder hint."; 
-            if (question != null) {
-                List<String> hints = question.getHints();
-                if (hints != null && hints.size() > 0) {
-                    hintText = hints.get(0); 
-                }
+        List<String> hints = question.getHints();
 
-
-            }
-            card.displayHintText(hintText);
-            card.setHintButtonText("Hide Hint");
-            card.setHintLabelVisible(true);
-        } else {
+        if (hints == null || hints.isEmpty()) {
+            card.displayHintText("No hints available for this question.");
             card.setHintButtonText("Show Hint");
+            card.setHintLabelVisible(true);
+            currentHintIndex = -1; 
+            return;
+        }
+
+        currentHintIndex++;
+
+        if (currentHintIndex < hints.size()) {
+            card.displayHintText(hints.get(currentHintIndex));
+            card.setHintLabelVisible(true);
+            if (currentHintIndex < hints.size() - 1) {
+                card.setHintButtonText("Next Hint");
+            } else {
+                card.setHintButtonText("Hide Hint");
+            }
+        } else {
             card.setHintLabelVisible(false);
+            card.setHintButtonText("Show Hint");
+            currentHintIndex = -1; 
         }
     }
 
@@ -98,7 +105,7 @@ public class QuestionHandler {
 
     public void handleRetry(QuestionCard card) {
         card.switchToQuestionViewAndReset();
-        hintVisible = false; 
+        currentHintIndex = -1; 
         explanationVisible = false; 
     }
 }
