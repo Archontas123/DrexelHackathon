@@ -16,5 +16,18 @@ public class MainScreen extends JFrame {
         setLocationRelativeTo(null); 
 
     }
+
+    public void createStartButton() {
+        javax.swing.JButton startButton = new javax.swing.JButton("Start Session");
+        startButton.setBounds(50, 150, 200, 30);
+        add(startButton);
+        startButton.addActionListener(e -> {
+            start();
+        });
+    }
+
+    public void start(){
+        
+    }
     
 }
