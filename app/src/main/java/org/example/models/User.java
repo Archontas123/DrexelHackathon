@@ -34,19 +34,19 @@ public class User {
         this.username = username;
     }
 
-    public List<Integer> getQuestions_right() {
+    public List<String> getQuestions_right() {
         return questions_right;
     }
 
-    public void setQuestions_right(List<Integer> questions_right) {
+    public void setQuestions_right(List<String> questions_right) {
         this.questions_right = questions_right;
     }
 
-    public List<Integer> getQuestions_wrong() {
+    public List<String> getQuestions_wrong() {
         return questions_wrong;
     }
 
-    public void setQuestions_wrong(List<Integer> questions_wrong) {
+    public void setQuestions_wrong(List<String> questions_wrong) {
         this.questions_wrong = questions_wrong;
     }
 
