@@ -21,7 +21,8 @@
       "Choice D is incorrect because the text is focused on explaining why Coll and colleagues reported many more species than Bianchi and Morri did, and an underestimate of the number of microorganism species by Coll and colleagues would not explain that difference—it would suggest, in fact, that the difference in the number of species should have been even larger."
     ],
     "hints": [
-      null
+      "The text states the difference is 'only partly attributable' to new invertebrate species. What is the other factor mentioned?",
+      "Consider how the 'poorly understood' morphological variability of microorganisms and 'researchers' decisions' could lead to different species counts."
     ]
   },
   {
@@ -46,7 +47,8 @@
       "Choice D is incorrect. The text never suggests that portrait painters shifted to become photographers."
     ],
     "hints": [
-      null
+      "The text says photography's impact might be 'overstated' and points to a trend that began *before* photography's invention.",
+      "What does this pre-existing trend suggest about the causes of the portrait miniature's decline?"
     ]
   },
   {
@@ -65,13 +67,14 @@
     ],
     "correctAnswer": 1,
     "answerExplanations": [
-      "Choice A is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement after election\" data for comparison.",
-      "Choice B is the best answer. The lighter bars show what happened when the announcement was to come before the election, and the darker bars show what happened when the announcement was to come after the election. For all three of the outcomes, the light and dark bars are virtually the same, demonstrating that the announcement timing didn't actually make a difference.",
-      "Choice C is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement after election\" data for comparison.",
-      "Choice D is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis. It doesn't include the \"announcement before election\" data for comparison."
+      "Choice A is incorrect. This accurately describes some data from the graph, but it doesn't weaken the hypothesis because it doesn't compare the 'before' and 'after' election scenarios, which is key to testing the hypothesis about timing.",
+      "Choice B is the best answer. The hypothesis is that announcement timing (before vs. after election) *matters*. If the data show no substantial difference in responses or incentives offered based on timing, this would weaken the hypothesis. Compare the light bars (before election) and dark bars (after election) for each outcome.",
+      "Choice C is incorrect. This describes a specific outcome for one condition but doesn't compare it to the other timing condition, which is necessary to evaluate the hypothesis about the effect of timing.",
+      "Choice D is incorrect. This accurately describes some data for the 'after election' scenario but doesn't compare it to the 'before election' scenario, so it doesn't directly address whether the timing influenced the outcomes as hypothesized."
     ],
     "hints": [
-      null
+      "The hypothesis states that timing (before vs. after election) significantly affects responses. To *weaken* this, look for data showing timing *doesn't* make a big difference.",
+      "Compare the heights of the light gray bars (announcement before election) and dark gray bars (announcement after election) for each category: 'no response', 'responded to inquiry', and 'offered incentive'."
     ]
   },
   {
@@ -96,7 +99,8 @@
       "Choice D is the best answer. Johnson collected \"ephemera,\" or things that are meant to be thrown away. Scholars thought his collection was worthless to them, then later realized that it was potentially valuable. This suggests that scholars went from disregarding ephemera to recognizing their usefulness."
     ],
     "hints": [
-      null
+      "The text contrasts how scholarly institutions *initially* viewed Johnson's collection with how the Bodleian Library *later* viewed it.",
+      "What does this shift in perception about the 'potential value' of ephemera illustrate?"
     ]
   },
   {
@@ -121,7 +125,8 @@
       "Choice D is incorrect. The text doesn't mention a recommended itinerary for audience members."
     ],
     "hints": [
-      null
+      "The text emphasizes how the 'venue's immense and intricate layout' is crucial for the 'sense of spatial fragmentation' and the 'play's refusal of narrative coherence'.",
+      "If these specific spatial characteristics are so key to the experience, what would that imply about trying to stage the play elsewhere?"
     ]
   },
   {
@@ -146,7 +151,8 @@
       "Choice D is incorrect. This choice doesn't support the hypothesis. It doesn't include anything about how the LINE transposon in octopuses might support advanced cognition."
     ],
     "hints": [
-      null
+      "The hypothesis links LINE transposons to 'advanced cognition'.",
+      "The text mentions LINE transposons are active in the human hippocampus, which supports complex cognition. What similar finding in octopuses would support the hypothesis?"
     ]
   },
   {
@@ -171,7 +177,8 @@
       "Choice D is incorrect. The text doesn't compare the importance of feather length and feather structure, and it doesn't say that Barve's study challenges any established beliefs. In fact, the study supports the prediction described in the first sentence, which is that birds' feather structures vary with habitat temperature."
     ],
     "hints": [
-      null
+      "The first sentence states a prediction. What did Barve's study in the Himalayas find in relation to this prediction?",
+      "Did Barve's findings contradict the initial prediction, or provide evidence for it in a new environment?"
     ]
   },
   {
@@ -196,7 +203,8 @@
       "Choice D is incorrect. It doesn't logically complete the text. The text never makes any claims about how interruptions affect the perceived volume of the unpleasant or pleasant experience. Rather, the text says that pleasant experiences are perceived as more enjoyable with interruptions, and that the opposite is suspected to be true of unpleasant experiences."
     ],
     "hints": [
-      null
+      "The text states disruptions to *enjoyable* experiences *increase* enjoyment.",
+      "It then says researchers suspect disruptions to *unpleasant* experiences would have the 'opposite effect'. What would be the opposite effect on the perception of an unpleasant experience?"
     ]
   },
   {
@@ -221,7 +229,8 @@
       "Choice D is incorrect. This choice misreads the table. Both isoguanine and hypoxanthine were detected in both Murchison meteorite samples."
     ],
     "hints": [
-      null
+      "The team's conclusion is that the nucleobases in the meteorite are *not* from Earth contamination.",
+      "Which data pattern would support this? Look for nucleobases present in the meteorite samples but *absent* (or 'not detected') in the Earth soil sample."
     ]
   },
   {
@@ -246,7 +255,8 @@
       "Choice D is the best answer. The text says that the formation at Mistaken Point contains fossils of \"the earliest multicellular organisms,\" which implies that these fossils are from an older time period than the fossils of \"prehistoric human ancestors\" found in the Minatogawa quarry."
     ],
     "hints": [
-      null
+      "The text contrasts Minatogawa (Pleistocene human ancestors) with Mistaken Point, which is for studying 'the earliest multicellular organisms'.",
+      "Which type of organism would be older: 'earliest multicellular organisms' or 'prehistoric human ancestors' from the Pleistocene?"
     ]
   },
   {
@@ -271,7 +281,8 @@
       "Choice D is incorrect. This choice does not support the conclusion. The conclusion is only about how participants feel about the review itself—the participants' attitude towards the reviewed product is not relevant."
     ],
     "hints": [
-      null
+      "The student's conclusion has two parts: 1) mere anger (low anger) may not negatively affect perceptions, and 2) high anger *does* worsen perceptions.",
+      "Focus on the 'Helpfulness of review' bars. How does the 'low anger' review compare to the 'no anger (control)' review? How does the 'high anger' review compare to the control?"
     ]
   },
   {
@@ -296,7 +307,8 @@
       "Choice D is incorrect. This choice mentions one impact that the Dissolution of the Monasteries contributed to, two years after it happened. But it doesn't help explain why Henry VIII might have wanted to enact the policy in the first place."
     ],
     "hints": [
-      null
+      "The assertion is that Henry VIII was motivated by 'perceived financial opportunities' when enacting the Dissolution of the Monasteries.",
+      "Which quotation shows an action by Henry VIII that would indicate an interest in the financial value of the monasteries *before* he dissolved them?"
     ]
   },
   {
@@ -321,7 +333,8 @@
       "Choice D is the best answer. The text metaphorically likens humans to animals in a zoo, suggesting that humans have dreams that they cannot fulfill because they are trapped."
     ],
     "hints": [
-      null
+      "The poem draws a parallel between animals in 'cruel traps' and humans 'in ours'.",
+      "Consider the description of the 'lofty soul in dreams and visions wrapped, / But in the stifling flesh securely trapped.' What does this imply about human aspirations?"
     ]
   },
   {
@@ -346,7 +359,8 @@
       "Choice D is incorrect because this quotation doesn't suggest that readers haven't fully understood themselves; instead, this quotation makes the point that the speaker has understood readers and is determined to create \"hymns\" about them."
     ],
     "hints": [
-      null
+      "The claim is that Whitman suggests readers 'have not fully understood themselves'.",
+      "Look for a quotation where Whitman directly addresses the reader ('You') and speaks about their lack of self-knowledge or awareness."
     ]
   },
   {
@@ -371,7 +385,8 @@
       "Choice D is incorrect. The graph doesn't depict REM sleep while in the water for the seals in the study. Additionally, we're told fur seals get no REM sleep while in the water, which is significantly different to the values shown in the graph for after they return to land."
     ],
     "hints": [
-      null
+      "Homeostatic regulation implies that after deprivation (almost no REM sleep in water), there would be a significant *increase* in REM sleep once back on land to compensate.",
+      "Examine the graph: on Day 1 and Day 2 on land, do all seals show a REM sleep percentage significantly *above* 100% (baseline)? Is this increase sustained as expected if compensation is occurring strongly?"
     ]
   },
   {
@@ -396,7 +411,8 @@
       "Choice D is incorrect. Though the provided text mentions easier peeling as a benefit, Armijo's hypothesis is focused on reducing roasting time. This choice doesn't address the speed of the roasting process."
     ],
     "hints": [
-      null
+      "Armijo's hypothesis is that using *more* heliostats will *reduce roasting time* for solar-roasted chiles.",
+      "Look for a finding that shows an experiment with more heliostats (e.g., more than 38-42) and a resulting roasting time that is faster than the previous solar method (which took six minutes)."
     ]
   },
   {
@@ -421,7 +437,8 @@
       "Choice D is incorrect. This choice misreads the graph. The graph shows us that the West (the bar on the left) generated about 150 thousand additional MWh, not 175 thousand."
     ],
     "hints": [
-      null
+      "The text explains the graph shows 'additional electricity' when winds are *stronger* than forecast.",
+      "Locate the bar for the 'West' region on the graph and read its approximate value on the y-axis (Electricity in thousands of MWh)."
     ]
   },
   {
@@ -446,7 +463,8 @@
       "Choice D is incorrect. The study didn't include any tanks with a mix of plants, so there's no basis for this inference."
     ],
     "hints": [
-      null
+      "The key finding is that tanks with duckweed and algae released *more* methane than tanks with watermilfoil.",
+      "What does this imply about the effect of watermilfoil (an underwater plant) on methane release?"
     ]
   },
   {
@@ -471,7 +489,8 @@
       "Choice D is incorrect. The text doesn't say anything about developing new medicines. Rather, it says that archaeologists are interested in using scents to better understand \"ancient rituals, trade, social hierarchies, and medicine.\""
     ],
     "hints": [
-      null
+      "The second sentence explicitly states what archaeologists hope to understand by using recovered scents.",
+      "What specific aspects of ancient societies are mentioned in relation to this interest?"
     ]
   },
   {
@@ -496,7 +515,8 @@
       "Choice D is incorrect. This choice doesn't address the key point of the claim, which is that the apparent similarity between neural networks and biological brains is only due to the rules programmed into the networks. It focuses on training tasks, not the originally programmed rules that the claim highlights."
     ],
     "hints": [
-      null
+      "The underlined claim states that the similarity in grid-cell activity is due more to the *programmed rules* of the networks than to actual similarity with biological brains.",
+      "Which finding would emphasize that the *rules* in the network are artificial or different from how biological brains work, thus making any observed similarity a product of those rules?"
     ]
   },
   {
@@ -521,7 +541,8 @@
       "Choice D is incorrect. This inference isn't supported. The text never discusses the differences in popularity of different musicians or compares the model's reflection of popularity to traditional models, so there is no basis to make this inference."
     ],
     "hints": [
-      null
+      "The text presents two contrasting examples of musicians using the 'pay as you wish' model: Harvey Danger (earnings below expectations) and Jane Siberry (significant earnings).",
+      "What general conclusion can be drawn from these two different outcomes?"
     ]
   },
   {
@@ -546,7 +567,8 @@
       "Choice D is incorrect because the finding that orangutans (a relative of humans) sometimes stand on two legs in trees doesn't suggest that a knuckle-walking human ancestor could've easily moved on two legs in trees. Although the text indicates that bipedalism may have evolved from a human ancestor that mostly stayed on the ground and walked on four limbs, it gives no indication of how easy it would've been for such an ancestor to move bipedally in trees."
     ],
     "hints": [
-      null
+      "The text presents a traditional theory (ground-based ancestor) and then introduces new observations about orangutans (tree-dwelling relatives) using bipedal posture.",
+      "How might the orangutan observations suggest an alternative origin or advantage for bipedalism in human ancestors?"
     ]
   },
   {
@@ -571,7 +593,8 @@
       "Choice D is incorrect. This choice would weaken the team's conclusion. It suggests that the presence or absence of certain microbes in the soil had no effect on whether plants got the disease, contradicting the team's conclusion."
     ],
     "hints": [
-      null
+      "The team's conclusion is that 'the presence of certain microbes in the soil might explain the difference between healthy and diseased plants'.",
+      "What kind of microbe would explain this difference? If healthy plants have more of a *beneficial* microbe (e.g., one that fights the disease), this would support the conclusion."
     ]
   },
   {
@@ -596,7 +619,8 @@
       "Choice D is incorrect because the text doesn't suggest that Mother prefers reading to her children over the other activities she does with them, such as playing with them and writing stories and poems for them. It lists reading as one of several activities."
     ],
     "hints": [
-      null
+      "The text lists several activities Mother engages in with her children.",
+      "Look for phrases like 'she used to write stories' and 'she always made up funny pieces of poetry'."
     ]
   },
   {
@@ -621,7 +645,8 @@
       "Choice D is incorrect. This choice describes a comparison between two artifacts (K3_9 at ~200°C, K5_106 at ~150°C), both of which were exposed to temperatures below the 400°C threshold relevant to the team's conclusion. Therefore, it doesn't support the conclusion about control of fire."
     ],
     "hints": [
-      null
+      "The team's conclusion is that hominins *may have had control of fire*.",
+      "The text states their method determined exposure to temperatures *above 400°C* (typical campfire temperature). Which artifacts in the graph meet this criterion?"
     ]
   },
   {
@@ -646,7 +671,8 @@
       "Choice D is the best answer. The convention being tested is subject-verb agreement. The singular subject \"a cycle of lunar phases\" requires the singular verb \"takes.\""
     ],
     "hints": [
-      null
+      "Identify the subject of the verb in the blank. Is 'a cycle' singular or plural?",
+      "The verb must agree in number with its subject."
     ]
   },
   {
@@ -671,7 +697,8 @@
       "Choice D is incorrect because it fails to mark the boundary between the main clause (ending with the quotation) and the supplementary noun phrase with appropriate punctuation. The phrase \"an apt assessment\" needs to be set off."
     ],
     "hints": [
-      null
+      "The phrase 'an apt assessment...' describes or renames Waid's observation ending with 'materialism'.",
+      "What punctuation is used to set off a non-essential phrase (an appositive) that renames or explains a preceding noun or noun phrase?"
     ]
   },
   {
@@ -696,7 +723,8 @@
       "Choice D is the best answer. The subject of the verb is \"Lincoln,” and the first sentence tells us that we're talking about something that Abraham Lincoln did in 1860. The simple past tense \"leveraged” fits the logic and historical context of the text."
     ],
     "hints": [
-      null
+      "The sentence describes an action Lincoln took in 1860.",
+      "Which verb tense is appropriate for a completed action in the past?"
     ]
   },
   {
@@ -721,7 +749,8 @@
       "Choice D is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"a traditional violin\" (referred to as \"the instrument's\"). Stradivari made the violin itself lighter."
     ],
     "hints": [
-      null
+      "The pronoun in the blank refers to what Stradivari made lighter.",
+      "Stradivari introduced changes to 'a traditional violin'. What singular pronoun would refer back to 'a traditional violin' or 'the instrument'?"
     ]
   },
   {
@@ -746,7 +775,8 @@
       "Choice D is incorrect because it results in a dangling modifier. The placement of the expletive pronoun “it” immediately after the introductory phrase illogically suggests that \"it\" recovered two years later. While \"Henry\" is mentioned later, the modifier should be next to its subject."
     ],
     "hints": [
-      null
+      "The introductory phrase 'Upon recovering two years later' describes an action performed by a person.",
+      "The subject that immediately follows this introductory phrase should be the person who recovered. Who recovered?"
     ]
   },
   {
@@ -771,7 +801,8 @@
       "Choice D is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase or list that elaborates on something in the main clause. In this choice, a colon is correctly used to mark the boundary between the main clause (\"A group...plant\") and the supplementary element (“TN57...pests”) and to introduce the following elaboration on the specific varieties of sweet potato plants that were examined."
     ],
     "hints": [
-      null
+      "The phrase 'TN57... and TN66...' provides specific examples or details about the 'two varieties of the sweet potato plant' mentioned just before the blank.",
+      "What punctuation mark is used to introduce a list or an explanation that elaborates on the preceding clause?"
     ]
   },
   {
@@ -796,7 +827,8 @@
       "Choice D is the best answer. This verb needs to function as the main verb in the sentence, with the subject \"One species, the silverleaf sunflower,\" so it needs to be conjugated. This choice gives us the singular present tense \"includes,” which agrees with the singular subject and is the only conjugated form of the verb among the choices that fits grammatically."
     ],
     "hints": [
-      null
+      "The subject of the sentence is 'One species, the silverleaf sunflower'.",
+      "This subject needs a main verb. Which option provides a correctly conjugated verb that agrees with a singular subject?"
     ]
   },
   {
@@ -821,7 +853,8 @@
       "Choice D is incorrect because the finite verb \"joins\" (simple present) can't be used in this way. The sentence is in the past tense (\"left\"), and this form does not express purpose. It would also require a conjunction to link it grammatically."
     ],
     "hints": [
-      null
+      "The sentence explains *why* Ellen Ochoa left her position.",
+      "Which verb form is often used to express purpose or reason for an action?"
     ]
   },
   {
@@ -846,7 +879,8 @@
       "Choice D is incorrect. Placing commas around the phrase \"collected by solar panels during the day\" suggests that it could be removed without affecting the coherence of the sentence, which isn't the case as it specifies the type of energy. The comma after \"energy\" is also unnecessary and disruptive. A single comma is needed after the entire introductory phrase."
     ],
     "hints": [
-      null
+      "The phrase starting 'Powered with...' is an introductory participial phrase that modifies the main clause.",
+      "What punctuation is typically used to separate an introductory phrase from the main clause of a sentence?"
     ]
   },
   {
@@ -871,7 +905,8 @@
       "Choice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"Positing.\" The participial phrase needs to be connected to the main clause describing Epicurus."
     ],
     "hints": [
-      null
+      "The phrase starting with 'positing...' is a participial phrase that modifies 'Epicurus' or describes his action of defining.",
+      "How should a participial phrase that provides additional, non-essential information at the end of a sentence be punctuated after a quotation?"
     ]
   },
   {
@@ -896,7 +931,8 @@
       "Choice D is incorrect because the singular possessive determiner \"its\" doesn't agree in number with the plural antecedent implied by \"the poems\" and the fact that the panels belong to these poems."
     ],
     "hints": [
-      null
+      "The 'eight panels of text' belong to 'the poems' mentioned later in the sentence.",
+      "Since 'poems' is plural, which plural possessive pronoun should be used?"
     ]
   },
   {
@@ -921,7 +957,8 @@
       "Choice D is incorrect. This choice creates a grammatical error. Adding \", and\" before an essential relative clause makes the sentence ungrammatical and changes the meaning. The clause starting with \"that\" directly modifies \"club.\""
     ],
     "hints": [
-      null
+      "The phrase starting with 'that is...' provides essential information identifying which 'scuba diving club' is being discussed.",
+      "Should essential (restrictive) clauses be set off by punctuation?"
     ]
   },
   {
@@ -946,7 +983,8 @@
       "Choice D is the best answer. The clause before the colon tells us that the novel \"asks a question,\" so the clause after the colon should be in the conventional form of a question: with the auxiliary verb \"will\" before the subject \"Umuofia's traditions,\" and a question mark at the end."
     ],
     "hints": [
-      null
+      "The text states the novel 'asks a central question'.",
+      "What is the standard word order for a question (verb-subject or subject-verb)? What punctuation mark ends a direct question?"
     ]
   },
   {
@@ -971,7 +1009,8 @@
       "Choice D is incorrect. This choice creates a punctuation error. A colon is used to introduce a list, explanation, or quotation, typically after an independent clause; it cannot be used to set off an essential appositive in this manner."
     ],
     "hints": [
-      null
+      "The name 'Marie Tharp' specifies *which* American geologist is being referred to.",
+      "Is this identifying information essential to the meaning of the sentence, or is it extra, non-essential information? How does this affect punctuation?"
     ]
   },
   {
@@ -996,7 +1035,8 @@
       "Choice D is the best answer. No punctuation should separate the verb \"unearthed\" and its direct objects (the list beginning with \"knives\"). The list of artifacts directly follows the verb as its objects."
     ],
     "hints": [
-      null
+      "The verb in the sentence is 'have unearthed'.",
+      "The items 'knives, horseshoes, wool tunics, and thousands of other artifacts' are the direct objects of this verb. Is punctuation needed between a verb and its direct objects in a simple list?"
     ]
   },
   {
@@ -1021,7 +1061,8 @@
       "Choice D is incorrect. This choice uses the plural \"photographers,\" which isn't correct as the sentence refers to the singular photographer Ansel Adams."
     ],
     "hints": [
-      null
+      "The sentence refers to one photographer, Ansel Adams. Should 'photographer' be singular or plural? Should it be possessive?",
+      "The sentence refers to multiple 'photos'. Should 'photos' be singular or plural? Should it be possessive?"
     ]
   },
   {
@@ -1046,7 +1087,8 @@
       "Choice D is incorrect. \"Those\" is a plural demonstrative pronoun, but we need a singular personal pronoun to represent the antecedent \"the human brain.\""
     ],
     "hints": [
-      null
+      "The pronoun in the blank refers to 'The human brain'.",
+      "Is 'The human brain' singular or plural? Which pronoun correctly refers to a singular, non-human noun?"
     ]
   },
   {
@@ -1071,7 +1113,8 @@
       "Choice D is incorrect. This choice creates a pronoun-antecedent agreement error and a shift in perspective. The noun that goes with \"expand and contract\" is the plural noun \"rivers.\" Rivers are not people, so the first-person plural pronoun \"we\" can't be used to stand in for it in this context."
     ],
     "hints": [
-      null
+      "The pronoun in the blank refers to 'rivers such as the Mississippi'.",
+      "Is 'rivers' singular or plural? Which pronoun correctly agrees with this antecedent?"
     ]
   },
   {
@@ -1096,7 +1139,8 @@
       "Choice D is incorrect. \"It\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural."
     ],
     "hints": [
-      null
+      "The pronoun in the blank refers back to 'many of her poems' or 'these works'.",
+      "Are 'poems' and 'works' singular or plural? Which pronoun agrees with a plural antecedent?"
     ]
   },
   {
@@ -1121,7 +1165,8 @@
       "Choice D is incorrect. This doesn't complete the text in a way that conforms to the conventions of Standard English. This choice uses the plural possessive \"novels’,” which is incorrect because there is only one novel, The Poet X, so it should be the singular possessive \"novel's.\""
     ],
     "hints": [
-      null
+      "The novel is composed of multiple items (poems). Should 'poems' be singular or plural? Possessive or not?",
+      "These poems are written by the protagonist of *one* novel. Should 'novel' be singular or plural? Possessive or not?"
     ]
   },
   {
@@ -1146,7 +1191,8 @@
       "Choice D is the best answer. The convention being tested is punctuation use between sentences and the use of participial phrases. In this choice, the period after \"essays\" correctly marks the boundary between one complete sentence (“American writer Edwidge Danticat...has won acclaim for her powerful short stories, novels, and essays.\") and another sentence starting with the participial phrase (\"Praising her lyrical yet unflinching depictions..., writer Robert Antoni has compared Danticat...\"). The participial phrase \"Praising...history\" modifies \"writer Robert Antoni,\" the subject of the second sentence."
     ],
     "hints": [
-      null
+      "The first part of the sentence, ending before the blank, lists what Danticat has won acclaim for (stories, novels, and...).",
+      "The part after the blank describes an action by 'writer Robert Antoni'. Is this a new, separate sentence, or directly continuing the first list? How should two distinct sentences be punctuated?"
     ]
   },
   {
@@ -1171,7 +1217,8 @@
       "Choice D is the best answer. The phrase \"that...back onto Mars's surface\" is a relative clause describing \"bits of molten rock.\" This relative clause requires a conjugated, finite verb that agrees with its subject \"that\" (which refers to the plural \"bits of molten rock\"). The simple present tense verb \"rain\" correctly fulfills this role and maintains tense consistency with \"form\" and \"ejecting\" in the description of the process."
     ],
     "hints": [
-      null
+      "The clause 'that... back onto Mars's surface' describes what the 'bits of molten rock' do.",
+      "The subject of this clause is 'that' (referring to the plural 'bits of molten rock'). Which verb form correctly agrees with a plural subject and fits the tense of the surrounding description of a process?"
     ]
   },
   {
@@ -1196,7 +1243,8 @@
       "Choice D is incorrect. Modifiers and their subjects must go next to each other. The introductory modifying phrase is describing Chraïbi's novel. This choice starts with another modifying phrase \"published two years before Morocco gained its independence,\" which describes the novel, but then incorrectly places \"Chraïbi wrote a debut novel that\" as the subject of the main modifying phrase. The structure is confusing and misplaces the primary subject of the initial descriptive phrase."
     ],
     "hints": [
-      null
+      "The introductory phrase 'A coming-of-age story, a social meditation, and a sober gaze...' describes something.",
+      "What is being described by this long introductory phrase? The subject that immediately follows the comma should be what the phrase modifies. Is it Morocco, Chraïbi himself, or his novel?"
     ]
   },
   {
@@ -1221,7 +1269,8 @@
       "Choice D is the best answer. The phrase \"such as the scent of roses when roses appeared in a scene\" provides an example and is a nonessential descriptive aside. A comma is appropriately used to separate this nonessential element from the main independent clause \"Theaters were fitted with specialized vents that emitted odors at specific points in a movie.\""
     ],
     "hints": [
-      null
+      "The phrase starting with 'as the scent of roses...' (or 'such as...') gives an example of the odors emitted.",
+      "Is this example phrase essential to the main clause, or is it extra information that should be set off by punctuation?"
     ]
   },
   {
@@ -1246,7 +1295,8 @@
       "Choice D is incorrect. This choice results in a sentence fragment. \"This type of random, continuous movement\" is not an independent clause and cannot stand alone as a full sentence. The following clause starting with \"Which\" would then be a new sentence, but the original sentence intends for \"which is known as Brownian motion...\" to modify \"movement.\""
     ],
     "hints": [
-      null
+      "The phrase 'which is known as Brownian motion' provides additional information about 'This type of random, continuous movement'.",
+      "Is this information essential to identify the movement, or is it extra (non-essential)? How are non-essential clauses set off?"
     ]
   }
 ]
