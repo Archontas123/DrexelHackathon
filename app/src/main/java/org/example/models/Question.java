@@ -1,120 +1,77 @@
 package org.example.models;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.Type;
+import java.util.List;
+
 public class Question {
-
-    private String questionName;
-    private int questionID;
-    private String questionType;
-    private String type;
-    private String[] subtopic;
-    private String image;
+    private String Test;
+    private String Domain;
+    private String Skill;
+    private String Difficulty;
+    private String question_id;
+    private String image_path;
     private String question;
-    private String[] answerChoices;
-    private int answerIndex;
-    private String[] explanations;
-    private String[] hints;
+    private List<String> answer_choices;
+    private String correct_answer;
+    private List<String> answer_explanations;
+    private List<String> hints;
 
-    public Question(String questionName, int questionID, String questionType, String type, String[] subtopic, String image,
-                    String question, String[] answerChoices, int answerIndex, String[] explanations, String[] hints) {
-        this.questionName = questionName;
-        this.questionID = questionID;
-        this.questionType = questionType;
-        this.type = type;
-        this.subtopic = subtopic;
-        this.image = image;
-        this.question = question;
-        this.answerChoices = answerChoices;
-        this.answerIndex = answerIndex;
-        this.explanations = explanations;
-        this.hints = hints;
+    // Constructor that loads a list of questions from a JSON file
+    public static List<Question> loadFromFile(String jsonFilePath) throws IOException {
+        Gson gson = new Gson();
+        try (FileReader reader = new FileReader(jsonFilePath)) {
+            Type questionListType = new TypeToken<List<Question>>() {}.getType();
+            return gson.fromJson(reader, questionListType);
+        }
     }
 
-    public String getQuestionName() {
-        return questionName;
+    // Getters (optional, but useful)
+    public String getTest() {
+        return Test;
     }
 
-    public int getQuestionID() {
-        return questionID;
+    public String getDomain() {
+        return Domain;
     }
 
-    public String getQuestionType() {
-        return questionType;
+    public String getSkill() {
+        return Skill;
     }
 
-    public String getType() {
-        return type;
+    public String getDifficulty() {
+        return Difficulty;
     }
 
-    public String[] getSubtopic() {
-        return subtopic;
+    public String getQuestionId() {
+        return question_id;
     }
 
-    public String getImage() {
-        return image;
+    public String getImagePath() {
+        return image_path;
     }
 
     public String getQuestion() {
         return question;
     }
 
-    public String[] getAnswerChoices() {
-        return answerChoices;
+    public List<String> getAnswerChoices() {
+        return answer_choices;
     }
 
-    public int getAnswerIndex() {
-        return answerIndex;
+    public String getCorrectAnswer() {
+        return correct_answer;
     }
 
-    public String[] getExplanations() {
-        return explanations;
+    public List<String> getAnswerExplanations() {
+        return answer_explanations;
     }
 
-    public String[] getHints() {
+    public List<String> getHints() {
         return hints;
     }
-
-    public void setQuestionName(String questionName) {
-        this.questionName = questionName;
-    }
-
-    public void setQuestionID(int questionID) {
-        this.questionID = questionID;
-    }
-
-    public void setQuestionType(String questionType) {
-        this.questionType = questionType;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public void setSubtopic(String[] subtopic) {
-        this.subtopic = subtopic;
-    }
-
-    public void setImage(String image) {
-        this.image = image;
-    }
-
-    public void setQuestion(String question) {
-        this.question = question;
-    }
-
-    public void setAnswerChoices(String[] answerChoices) {
-        this.answerChoices = answerChoices;
-    }
-
-    public void setAnswerIndex(int answerIndex) {
-        this.answerIndex = answerIndex;
-    }
-
-    public void setExplanations(String[] explanations) {
-        this.explanations = explanations;
-    }
-
-    public void setHints(String[] hints) {
-        this.hints = hints;
-    }
- 
 }
